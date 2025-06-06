@@ -1,0 +1,50 @@
+# Community Building Extractor Configuration
+
+# Default search parameters
+default_radius_meters: 1500
+delay_between_requests: 1.5
+
+# API settings
+overpass_timeout: 30
+osmnx_timeout: 180
+
+# Output settings
+output_directory: "output"
+include_timestamp_in_filenames: true
+create_summary_reports: true
+
+# File formats
+export_formats:
+  - csv
+  - kml
+  - geojson  # Future enhancement
+
+# Building classification
+building_categories:
+  residential:
+    - house
+    - residential
+    - detached
+    - cabin
+    - hut
+    - bungalow
+  
+  commercial:
+    - commercial
+    - retail
+    - shop
+    - office
+    - store
+    - warehouse
+  
+  community:
+    - school
+    - hospital
+    - church
+    - community_centre
+    - library
+    - fire_station
+
+# Logging
+log_level: INFO
+log_file: "logs/building_extraction.log"

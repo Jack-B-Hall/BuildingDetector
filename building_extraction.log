@@ -1,0 +1,1213 @@
+2025-06-06 12:09:28,271 - INFO - ✅ Loaded 24 valid communities from TownData.csv
+2025-06-06 12:09:28,271 - INFO - 🏘️ Initialized extractor for 24 communities
+2025-06-06 12:09:28,271 - INFO - 📁 Output directory: /home/jack/BuildingDetector/output
+2025-06-06 12:09:28,271 - INFO - 🚀 Starting batch processing of 24 communities
+2025-06-06 12:09:28,271 - INFO - 🏠 Processing: 16 Mile Camp
+2025-06-06 12:09:28,271 - INFO - 📍 Coordinates: -23.45764, 133.83248
+2025-06-06 12:09:31,201 - INFO - ✅ OSMnx point query: 2 buildings
+2025-06-06 12:09:33,280 - INFO - 💾 CSV saved: output/16_mile_camp/16_mile_camp_buildings_20250606_120933.csv
+2025-06-06 12:09:33,283 - INFO - 🗺️ KML saved: output/16_mile_camp/16_mile_camp_buildings_20250606_120933.kml
+2025-06-06 12:09:33,283 - INFO - 📄 Summary saved: output/16_mile_camp/16_mile_camp_summary_20250606_120933.txt
+2025-06-06 12:09:33,284 - INFO - ✅ 16 Mile Camp: 2 buildings found
+2025-06-06 12:09:33,284 - INFO - 🏠 Processing: Alkupitja
+2025-06-06 12:09:33,284 - INFO - 📍 Coordinates: -23.06533, 133.69436
+2025-06-06 12:09:35,014 - INFO - ✅ OSMnx point query: 8 buildings
+2025-06-06 12:09:36,517 - INFO - 💾 CSV saved: output/alkupitja/alkupitja_buildings_20250606_120936.csv
+2025-06-06 12:09:36,520 - INFO - 🗺️ KML saved: output/alkupitja/alkupitja_buildings_20250606_120936.kml
+2025-06-06 12:09:36,521 - INFO - 📄 Summary saved: output/alkupitja/alkupitja_summary_20250606_120936.txt
+2025-06-06 12:09:36,521 - INFO - ✅ Alkupitja: 8 buildings found
+2025-06-06 12:09:36,522 - INFO - 🏠 Processing: Angurugu
+2025-06-06 12:09:36,522 - INFO - 📍 Coordinates: -13.9822, 136.4606
+2025-06-06 12:09:38,312 - INFO - ✅ OSMnx point query: 113 buildings
+2025-06-06 12:09:39,816 - INFO - 💾 CSV saved: output/angurugu/angurugu_buildings_20250606_120939.csv
+2025-06-06 12:09:39,838 - INFO - 🗺️ KML saved: output/angurugu/angurugu_buildings_20250606_120939.kml
+2025-06-06 12:09:39,840 - INFO - 📄 Summary saved: output/angurugu/angurugu_summary_20250606_120939.txt
+2025-06-06 12:09:39,840 - INFO - ✅ Angurugu: 113 buildings found
+2025-06-06 12:09:39,840 - INFO - 🏠 Processing: Artekerre
+2025-06-06 12:09:39,840 - INFO - 📍 Coordinates: -23.257387, 133.766604
+2025-06-06 12:09:41,527 - INFO - ✅ OSMnx point query: 14 buildings
+2025-06-06 12:09:43,031 - INFO - 💾 CSV saved: output/artekerre/artekerre_buildings_20250606_120943.csv
+2025-06-06 12:09:43,035 - INFO - 🗺️ KML saved: output/artekerre/artekerre_buildings_20250606_120943.kml
+2025-06-06 12:09:43,036 - INFO - 📄 Summary saved: output/artekerre/artekerre_summary_20250606_120943.txt
+2025-06-06 12:09:43,036 - INFO - ✅ Artekerre: 14 buildings found
+2025-06-06 12:09:43,037 - INFO - 🏠 Processing: Black Tank Bore
+2025-06-06 12:09:43,037 - INFO - 📍 Coordinates: -23.32352, 134.02049
+2025-06-06 12:09:44,737 - INFO - ✅ OSMnx point query: 6 buildings
+2025-06-06 12:09:46,241 - INFO - 💾 CSV saved: output/black_tank_bore/black_tank_bore_buildings_20250606_120946.csv
+2025-06-06 12:09:46,243 - INFO - 🗺️ KML saved: output/black_tank_bore/black_tank_bore_buildings_20250606_120946.kml
+2025-06-06 12:09:46,244 - INFO - 📄 Summary saved: output/black_tank_bore/black_tank_bore_summary_20250606_120946.txt
+2025-06-06 12:09:46,244 - INFO - ✅ Black Tank Bore: 6 buildings found
+2025-06-06 12:09:46,245 - INFO - 🏠 Processing: Burt Creek
+2025-06-06 12:09:46,245 - INFO - 📍 Coordinates: -23.19652, 133.74759
+2025-06-06 12:09:47,955 - INFO - ✅ OSMnx point query: 11 buildings
+2025-06-06 12:09:49,459 - INFO - 💾 CSV saved: output/burt_creek/burt_creek_buildings_20250606_120949.csv
+2025-06-06 12:09:49,462 - INFO - 🗺️ KML saved: output/burt_creek/burt_creek_buildings_20250606_120949.kml
+2025-06-06 12:09:49,463 - INFO - 📄 Summary saved: output/burt_creek/burt_creek_summary_20250606_120949.txt
+2025-06-06 12:09:49,463 - INFO - ✅ Burt Creek: 11 buildings found
+2025-06-06 12:09:49,464 - INFO - 🏠 Processing: Corkwood Bore
+2025-06-06 12:09:49,464 - INFO - 📍 Coordinates: -23.31225, 133.86792
+2025-06-06 12:09:51,074 - INFO - ✅ OSMnx point query: 5 buildings
+2025-06-06 12:09:52,578 - INFO - 💾 CSV saved: output/corkwood_bore/corkwood_bore_buildings_20250606_120952.csv
+2025-06-06 12:09:52,580 - INFO - 🗺️ KML saved: output/corkwood_bore/corkwood_bore_buildings_20250606_120952.kml
+2025-06-06 12:09:52,581 - INFO - 📄 Summary saved: output/corkwood_bore/corkwood_bore_summary_20250606_120952.txt
+2025-06-06 12:09:52,581 - INFO - ✅ Corkwood Bore: 5 buildings found
+2025-06-06 12:09:52,581 - INFO - 🏠 Processing: Gunbalanya
+2025-06-06 12:09:52,582 - INFO - 📍 Coordinates: -12.324, 133.056
+2025-06-06 12:09:54,233 - INFO - ✅ OSMnx point query: 3 buildings
+2025-06-06 12:09:55,737 - INFO - 💾 CSV saved: output/gunbalanya/gunbalanya_buildings_20250606_120955.csv
+2025-06-06 12:09:55,739 - INFO - 🗺️ KML saved: output/gunbalanya/gunbalanya_buildings_20250606_120955.kml
+2025-06-06 12:09:55,739 - INFO - 📄 Summary saved: output/gunbalanya/gunbalanya_summary_20250606_120955.txt
+2025-06-06 12:09:55,740 - INFO - ✅ Gunbalanya: 3 buildings found
+2025-06-06 12:09:55,740 - INFO - 🏠 Processing: Hermannsburg
+2025-06-06 12:09:55,740 - INFO - 📍 Coordinates: -23.9427, 132.7787
+2025-06-06 12:09:57,423 - INFO - ✅ OSMnx point query: 112 buildings
+2025-06-06 12:09:58,929 - INFO - 💾 CSV saved: output/hermannsburg/hermannsburg_buildings_20250606_120958.csv
+2025-06-06 12:09:58,954 - INFO - 🗺️ KML saved: output/hermannsburg/hermannsburg_buildings_20250606_120958.kml
+2025-06-06 12:09:58,955 - INFO - 📄 Summary saved: output/hermannsburg/hermannsburg_summary_20250606_120958.txt
+2025-06-06 12:09:58,955 - INFO - ✅ Hermannsburg: 112 buildings found
+2025-06-06 12:09:58,955 - INFO - 🏠 Processing: Irrerlirre
+2025-06-06 12:09:58,955 - INFO - 📍 Coordinates: -22.8462, 135.1345
+2025-06-06 12:10:00,562 - INFO - ✅ OSMnx point query: 20 buildings
+2025-06-06 12:10:02,065 - INFO - 💾 CSV saved: output/irrerlirre/irrerlirre_buildings_20250606_121002.csv
+2025-06-06 12:10:02,070 - INFO - 🗺️ KML saved: output/irrerlirre/irrerlirre_buildings_20250606_121002.kml
+2025-06-06 12:10:02,071 - INFO - 📄 Summary saved: output/irrerlirre/irrerlirre_summary_20250606_121002.txt
+2025-06-06 12:10:02,071 - INFO - ✅ Irrerlirre: 20 buildings found
+2025-06-06 12:10:02,071 - INFO - 🏠 Processing: Kalkarindji 
+2025-06-06 12:10:02,071 - INFO - 📍 Coordinates: -17.44670592, 130.8314152
+2025-06-06 12:10:03,868 - INFO - ✅ OSMnx point query: 161 buildings
+2025-06-06 12:10:05,374 - INFO - 💾 CSV saved: output/kalkarindji/kalkarindji_buildings_20250606_121005.csv
+2025-06-06 12:10:05,404 - INFO - 🗺️ KML saved: output/kalkarindji/kalkarindji_buildings_20250606_121005.kml
+2025-06-06 12:10:05,405 - INFO - 📄 Summary saved: output/kalkarindji/kalkarindji_summary_20250606_121005.txt
+2025-06-06 12:10:05,405 - INFO - ✅ Kalkarindji : 161 buildings found
+2025-06-06 12:10:05,405 - INFO - 🏠 Processing: Kintore
+2025-06-06 12:10:05,405 - INFO - 📍 Coordinates: -23.27591, 129.38725
+2025-06-06 12:10:07,252 - INFO - ✅ OSMnx point query: 154 buildings
+2025-06-06 12:10:08,758 - INFO - 💾 CSV saved: output/kintore/kintore_buildings_20250606_121008.csv
+2025-06-06 12:10:08,792 - INFO - 🗺️ KML saved: output/kintore/kintore_buildings_20250606_121008.kml
+2025-06-06 12:10:08,793 - INFO - 📄 Summary saved: output/kintore/kintore_summary_20250606_121008.txt
+2025-06-06 12:10:08,793 - INFO - ✅ Kintore: 154 buildings found
+2025-06-06 12:10:08,794 - INFO - 🏠 Processing: Mbunghara
+2025-06-06 12:10:08,794 - INFO - 📍 Coordinates: -23.29071, 132.35891
+2025-06-06 12:10:10,497 - INFO - ✅ OSMnx point query: 14 buildings
+2025-06-06 12:10:12,001 - INFO - 💾 CSV saved: output/mbunghara/mbunghara_buildings_20250606_121011.csv
+2025-06-06 12:10:12,005 - INFO - 🗺️ KML saved: output/mbunghara/mbunghara_buildings_20250606_121012.kml
+2025-06-06 12:10:12,006 - INFO - 📄 Summary saved: output/mbunghara/mbunghara_summary_20250606_121012.txt
+2025-06-06 12:10:12,006 - INFO - ✅ Mbunghara: 14 buildings found
+2025-06-06 12:10:12,006 - INFO - 🏠 Processing: Milingimbi
+2025-06-06 12:10:12,006 - INFO - 📍 Coordinates: -12.1036, 134.9201
+2025-06-06 12:10:13,979 - INFO - ✅ OSMnx point query: 205 buildings
+2025-06-06 12:10:15,484 - INFO - 💾 CSV saved: output/milingimbi/milingimbi_buildings_20250606_121015.csv
+2025-06-06 12:10:15,522 - INFO - 🗺️ KML saved: output/milingimbi/milingimbi_buildings_20250606_121015.kml
+2025-06-06 12:10:15,523 - INFO - 📄 Summary saved: output/milingimbi/milingimbi_summary_20250606_121015.txt
+2025-06-06 12:10:15,523 - INFO - ✅ Milingimbi: 205 buildings found
+2025-06-06 12:10:15,523 - INFO - 🏠 Processing: Ngukurr
+2025-06-06 12:10:15,523 - INFO - 📍 Coordinates: -14.7317, 134.7321
+2025-06-06 12:10:17,156 - INFO - ✅ OSMnx point query: 13 buildings
+2025-06-06 12:10:18,660 - INFO - 💾 CSV saved: output/ngukurr/ngukurr_buildings_20250606_121018.csv
+2025-06-06 12:10:18,663 - INFO - 🗺️ KML saved: output/ngukurr/ngukurr_buildings_20250606_121018.kml
+2025-06-06 12:10:18,664 - INFO - 📄 Summary saved: output/ngukurr/ngukurr_summary_20250606_121018.txt
+2025-06-06 12:10:18,664 - INFO - ✅ Ngukurr: 13 buildings found
+2025-06-06 12:10:18,665 - INFO - 🏠 Processing: Orrtipa Thurra
+2025-06-06 12:10:18,665 - INFO - 📍 Coordinates: -22.784582, 136.16829
+2025-06-06 12:10:20,404 - INFO - ✅ OSMnx point query: 26 buildings
+2025-06-06 12:10:21,908 - INFO - 💾 CSV saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_121021.csv
+2025-06-06 12:10:21,966 - INFO - 🗺️ KML saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_121021.kml
+2025-06-06 12:10:21,967 - INFO - 📄 Summary saved: output/orrtipa_thurra/orrtipa_thurra_summary_20250606_121021.txt
+2025-06-06 12:10:21,967 - INFO - ✅ Orrtipa Thurra: 26 buildings found
+2025-06-06 12:10:21,967 - INFO - 🏠 Processing: Papunya
+2025-06-06 12:10:21,967 - INFO - 📍 Coordinates: -23.203056, 131.9111
+2025-06-06 12:10:23,594 - INFO - ✅ OSMnx point query: 84 buildings
+2025-06-06 12:10:25,099 - INFO - 💾 CSV saved: output/papunya/papunya_buildings_20250606_121025.csv
+2025-06-06 12:10:25,115 - INFO - 🗺️ KML saved: output/papunya/papunya_buildings_20250606_121025.kml
+2025-06-06 12:10:25,116 - INFO - 📄 Summary saved: output/papunya/papunya_summary_20250606_121025.txt
+2025-06-06 12:10:25,116 - INFO - ✅ Papunya: 84 buildings found
+2025-06-06 12:10:25,117 - INFO - 🏠 Processing: Santa Teresa
+2025-06-06 12:10:25,117 - INFO - 📍 Coordinates: -24.1307, 134.3733
+2025-06-06 12:10:26,775 - INFO - ✅ OSMnx point query: 97 buildings
+2025-06-06 12:10:28,279 - INFO - 💾 CSV saved: output/santa_teresa/santa_teresa_buildings_20250606_121028.csv
+2025-06-06 12:10:28,298 - INFO - 🗺️ KML saved: output/santa_teresa/santa_teresa_buildings_20250606_121028.kml
+2025-06-06 12:10:28,299 - INFO - 📄 Summary saved: output/santa_teresa/santa_teresa_summary_20250606_121028.txt
+2025-06-06 12:10:28,299 - INFO - ✅ Santa Teresa: 97 buildings found
+2025-06-06 12:10:28,300 - INFO - 🏠 Processing: Snake Well
+2025-06-06 12:10:28,300 - INFO - 📍 Coordinates: -23.159459, 133.915292
+2025-06-06 12:10:30,011 - INFO - ✅ OSMnx point query: 11 buildings
+2025-06-06 12:10:31,515 - INFO - 💾 CSV saved: output/snake_well/snake_well_buildings_20250606_121031.csv
+2025-06-06 12:10:31,520 - INFO - 🗺️ KML saved: output/snake_well/snake_well_buildings_20250606_121031.kml
+2025-06-06 12:10:31,521 - INFO - 📄 Summary saved: output/snake_well/snake_well_summary_20250606_121031.txt
+2025-06-06 12:10:31,522 - INFO - ✅ Snake Well: 11 buildings found
+2025-06-06 12:10:31,522 - INFO - 🏠 Processing: Undoolya Bore
+2025-06-06 12:10:31,522 - INFO - 📍 Coordinates: -23.74762, 134.11762
+2025-06-06 12:10:33,266 - INFO - ✅ OSMnx point query: 16 buildings
+2025-06-06 12:10:34,770 - INFO - 💾 CSV saved: output/undoolya_bore/undoolya_bore_buildings_20250606_121034.csv
+2025-06-06 12:10:34,774 - INFO - 🗺️ KML saved: output/undoolya_bore/undoolya_bore_buildings_20250606_121034.kml
+2025-06-06 12:10:34,775 - INFO - 📄 Summary saved: output/undoolya_bore/undoolya_bore_summary_20250606_121034.txt
+2025-06-06 12:10:34,775 - INFO - ✅ Undoolya Bore: 16 buildings found
+2025-06-06 12:10:34,775 - INFO - 🏠 Processing: Wadeye
+2025-06-06 12:10:34,775 - INFO - 📍 Coordinates: -14.2404, 129.5205
+2025-06-06 12:10:36,731 - INFO - ✅ OSMnx point query: 202 buildings
+2025-06-06 12:10:38,237 - INFO - 💾 CSV saved: output/wadeye/wadeye_buildings_20250606_121038.csv
+2025-06-06 12:10:38,274 - INFO - 🗺️ KML saved: output/wadeye/wadeye_buildings_20250606_121038.kml
+2025-06-06 12:10:38,275 - INFO - 📄 Summary saved: output/wadeye/wadeye_summary_20250606_121038.txt
+2025-06-06 12:10:38,275 - INFO - ✅ Wadeye: 202 buildings found
+2025-06-06 12:10:38,275 - INFO - 🏠 Processing: Walkabout Bore
+2025-06-06 12:10:38,275 - INFO - 📍 Coordinates: -24.38261, 133.81687
+2025-06-06 12:10:39,979 - INFO - ✅ OSMnx point query: 18 buildings
+2025-06-06 12:10:41,482 - INFO - 💾 CSV saved: output/walkabout_bore/walkabout_bore_buildings_20250606_121041.csv
+2025-06-06 12:10:41,492 - INFO - 🗺️ KML saved: output/walkabout_bore/walkabout_bore_buildings_20250606_121041.kml
+2025-06-06 12:10:41,493 - INFO - 📄 Summary saved: output/walkabout_bore/walkabout_bore_summary_20250606_121041.txt
+2025-06-06 12:10:41,493 - INFO - ✅ Walkabout Bore: 18 buildings found
+2025-06-06 12:10:41,494 - INFO - 🏠 Processing: Wurrumiyanga
+2025-06-06 12:10:41,494 - INFO - 📍 Coordinates: -11.758306, 130.63747
+2025-06-06 12:10:43,710 - INFO - ✅ OSMnx point query: 525 buildings
+2025-06-06 12:10:45,219 - INFO - 💾 CSV saved: output/wurrumiyanga/wurrumiyanga_buildings_20250606_121045.csv
+2025-06-06 12:10:45,315 - INFO - 🗺️ KML saved: output/wurrumiyanga/wurrumiyanga_buildings_20250606_121045.kml
+2025-06-06 12:10:45,316 - INFO - 📄 Summary saved: output/wurrumiyanga/wurrumiyanga_summary_20250606_121045.txt
+2025-06-06 12:10:45,316 - INFO - ✅ Wurrumiyanga: 525 buildings found
+2025-06-06 12:10:45,317 - INFO - 🏠 Processing: Yuendumu
+2025-06-06 12:10:45,317 - INFO - 📍 Coordinates: -22.25389, 131.79529
+2025-06-06 12:10:47,316 - INFO - ✅ OSMnx point query: 299 buildings
+2025-06-06 12:10:48,822 - INFO - 💾 CSV saved: output/yuendumu/yuendumu_buildings_20250606_121048.csv
+2025-06-06 12:10:48,876 - INFO - 🗺️ KML saved: output/yuendumu/yuendumu_buildings_20250606_121048.kml
+2025-06-06 12:10:48,877 - INFO - 📄 Summary saved: output/yuendumu/yuendumu_summary_20250606_121048.txt
+2025-06-06 12:10:48,878 - INFO - ✅ Yuendumu: 299 buildings found
+2025-06-06 12:10:48,878 - INFO - 📊 Final summary saved: output/batch_extraction_summary_20250606_121048.txt
+2025-06-06 12:20:43,891 - INFO - ✅ Loaded 24 valid communities from TownData.csv
+2025-06-06 12:20:43,891 - INFO - 🏘️ Enhanced extractor initialized for 24 communities
+2025-06-06 12:20:43,891 - INFO - 📁 Output: /home/jack/BuildingDetector/output
+2025-06-06 12:20:43,891 - INFO - 💾 Cache: /home/jack/BuildingDetector/cache
+2025-06-06 12:20:43,891 - INFO - 🔍 Geocoding: Enabled
+2025-06-06 12:20:43,891 - INFO - 🚀 Starting batch processing of 24 communities
+2025-06-06 12:20:43,891 - INFO - 💾 Cache directory: /home/jack/BuildingDetector/cache
+2025-06-06 12:20:43,892 - INFO - 🔄 Force refresh: False
+2025-06-06 12:20:43,892 - INFO - 🏠 Processing: 16 Mile Camp
+2025-06-06 12:20:43,892 - INFO - 📍 Coordinates: -23.45764, 133.83248
+2025-06-06 12:20:44,164 - INFO - ✅ OSMnx point query: 2 buildings
+2025-06-06 12:20:44,768 - INFO - 🔍 Looking up addresses for 2 buildings...
+2025-06-06 12:20:47,299 - INFO - 🏠 Successfully geocoded 2/2 addresses
+2025-06-06 12:20:47,299 - INFO - 💾 Cached buildings data: b3b93e4e45d0c6df9cd8b771adffedbe
+2025-06-06 12:20:49,304 - INFO - 💾 CSV saved: output/16_mile_camp/16_mile_camp_buildings_20250606_122049.csv
+2025-06-06 12:20:49,306 - INFO - 🗺️ KML saved: output/16_mile_camp/16_mile_camp_buildings_20250606_122049.kml
+2025-06-06 12:20:49,307 - INFO - 📄 Summary saved: output/16_mile_camp/16_mile_camp_summary_20250606_122049.txt
+2025-06-06 12:20:49,307 - INFO - ✅ 16 Mile Camp: 2 buildings found
+2025-06-06 12:20:49,307 - INFO - 🏠 Processing: Alkupitja
+2025-06-06 12:20:49,307 - INFO - 📍 Coordinates: -23.06533, 133.69436
+2025-06-06 12:20:49,435 - INFO - ✅ OSMnx point query: 8 buildings
+2025-06-06 12:20:49,436 - INFO - 🔍 Looking up addresses for 8 buildings...
+2025-06-06 12:20:59,469 - INFO - 🏠 Successfully geocoded 8/8 addresses
+2025-06-06 12:20:59,469 - INFO - 💾 Cached buildings data: 262fa748285666549c40c63280eb19d7
+2025-06-06 12:21:01,474 - INFO - 💾 CSV saved: output/alkupitja/alkupitja_buildings_20250606_122101.csv
+2025-06-06 12:21:01,476 - INFO - 🗺️ KML saved: output/alkupitja/alkupitja_buildings_20250606_122101.kml
+2025-06-06 12:21:01,477 - INFO - 📄 Summary saved: output/alkupitja/alkupitja_summary_20250606_122101.txt
+2025-06-06 12:21:01,477 - INFO - ✅ Alkupitja: 8 buildings found
+2025-06-06 12:21:01,478 - INFO - 🏠 Processing: Angurugu
+2025-06-06 12:21:01,478 - INFO - 📍 Coordinates: -13.9822, 136.4606
+2025-06-06 12:21:01,600 - INFO - ✅ OSMnx point query: 113 buildings
+2025-06-06 12:21:01,600 - INFO - 🔍 Looking up addresses for 113 buildings...
+2025-06-06 12:23:24,921 - INFO - 🏠 Successfully geocoded 113/113 addresses
+2025-06-06 12:23:24,921 - INFO - 💾 Cached buildings data: 940a92aa3da64dd310c0eafbda64bdf5
+2025-06-06 12:23:26,927 - INFO - 💾 CSV saved: output/angurugu/angurugu_buildings_20250606_122326.csv
+2025-06-06 12:23:26,950 - INFO - 🗺️ KML saved: output/angurugu/angurugu_buildings_20250606_122326.kml
+2025-06-06 12:23:26,952 - INFO - 📄 Summary saved: output/angurugu/angurugu_summary_20250606_122326.txt
+2025-06-06 12:23:26,952 - INFO - ✅ Angurugu: 113 buildings found
+2025-06-06 12:23:26,952 - INFO - 🏠 Processing: Artekerre
+2025-06-06 12:23:26,952 - INFO - 📍 Coordinates: -23.257387, 133.766604
+2025-06-06 12:23:27,048 - INFO - ✅ OSMnx point query: 14 buildings
+2025-06-06 12:23:27,048 - INFO - 🔍 Looking up addresses for 14 buildings...
+2025-06-06 12:23:44,781 - INFO - 🏠 Successfully geocoded 14/14 addresses
+2025-06-06 12:23:44,782 - INFO - 💾 Cached buildings data: 45d8e39fafce77e03bb827a98849b7e9
+2025-06-06 12:23:46,786 - INFO - 💾 CSV saved: output/artekerre/artekerre_buildings_20250606_122346.csv
+2025-06-06 12:23:46,790 - INFO - 🗺️ KML saved: output/artekerre/artekerre_buildings_20250606_122346.kml
+2025-06-06 12:23:46,791 - INFO - 📄 Summary saved: output/artekerre/artekerre_summary_20250606_122346.txt
+2025-06-06 12:23:46,791 - INFO - ✅ Artekerre: 14 buildings found
+2025-06-06 12:23:46,791 - INFO - 🏠 Processing: Black Tank Bore
+2025-06-06 12:23:46,791 - INFO - 📍 Coordinates: -23.32352, 134.02049
+2025-06-06 12:23:46,883 - INFO - ✅ OSMnx point query: 6 buildings
+2025-06-06 12:23:46,884 - INFO - 🔍 Looking up addresses for 6 buildings...
+2025-06-06 12:23:54,384 - INFO - 🏠 Successfully geocoded 6/6 addresses
+2025-06-06 12:23:54,385 - INFO - 💾 Cached buildings data: 081849c326f4b38f5ab5f8425f8dedc1
+2025-06-06 12:23:56,389 - INFO - 💾 CSV saved: output/black_tank_bore/black_tank_bore_buildings_20250606_122356.csv
+2025-06-06 12:23:56,391 - INFO - 🗺️ KML saved: output/black_tank_bore/black_tank_bore_buildings_20250606_122356.kml
+2025-06-06 12:23:56,392 - INFO - 📄 Summary saved: output/black_tank_bore/black_tank_bore_summary_20250606_122356.txt
+2025-06-06 12:23:56,393 - INFO - ✅ Black Tank Bore: 6 buildings found
+2025-06-06 12:23:56,393 - INFO - 🏠 Processing: Burt Creek
+2025-06-06 12:23:56,393 - INFO - 📍 Coordinates: -23.19652, 133.74759
+2025-06-06 12:23:56,489 - INFO - ✅ OSMnx point query: 11 buildings
+2025-06-06 12:23:56,489 - INFO - 🔍 Looking up addresses for 11 buildings...
+2025-06-06 12:24:10,341 - INFO - 🏠 Successfully geocoded 11/11 addresses
+2025-06-06 12:24:10,342 - INFO - 💾 Cached buildings data: f5bf96a932c1053e3848af489c10b529
+2025-06-06 12:24:12,345 - INFO - 💾 CSV saved: output/burt_creek/burt_creek_buildings_20250606_122412.csv
+2025-06-06 12:24:12,349 - INFO - 🗺️ KML saved: output/burt_creek/burt_creek_buildings_20250606_122412.kml
+2025-06-06 12:24:12,350 - INFO - 📄 Summary saved: output/burt_creek/burt_creek_summary_20250606_122412.txt
+2025-06-06 12:24:12,350 - INFO - ✅ Burt Creek: 11 buildings found
+2025-06-06 12:24:12,350 - INFO - 🏠 Processing: Corkwood Bore
+2025-06-06 12:24:12,351 - INFO - 📍 Coordinates: -23.31225, 133.86792
+2025-06-06 12:24:12,451 - INFO - ✅ OSMnx point query: 5 buildings
+2025-06-06 12:24:12,451 - INFO - 🔍 Looking up addresses for 5 buildings...
+2025-06-06 12:24:18,789 - INFO - 🏠 Successfully geocoded 5/5 addresses
+2025-06-06 12:24:18,789 - INFO - 💾 Cached buildings data: 2d9c4c457c3a27c02c3d2850551a0c71
+2025-06-06 12:24:20,794 - INFO - 💾 CSV saved: output/corkwood_bore/corkwood_bore_buildings_20250606_122420.csv
+2025-06-06 12:24:20,796 - INFO - 🗺️ KML saved: output/corkwood_bore/corkwood_bore_buildings_20250606_122420.kml
+2025-06-06 12:24:20,797 - INFO - 📄 Summary saved: output/corkwood_bore/corkwood_bore_summary_20250606_122420.txt
+2025-06-06 12:24:20,797 - INFO - ✅ Corkwood Bore: 5 buildings found
+2025-06-06 12:24:20,797 - INFO - 🏠 Processing: Gunbalanya
+2025-06-06 12:24:20,797 - INFO - 📍 Coordinates: -12.324, 133.056
+2025-06-06 12:24:20,890 - INFO - ✅ OSMnx point query: 3 buildings
+2025-06-06 12:24:20,890 - INFO - 🔍 Looking up addresses for 3 buildings...
+2025-06-06 12:24:25,471 - INFO - 🏠 Successfully geocoded 3/3 addresses
+2025-06-06 12:24:25,472 - INFO - 💾 Cached buildings data: f7fc4cc4c7e4403bc3005240d355e892
+2025-06-06 12:24:27,477 - INFO - 💾 CSV saved: output/gunbalanya/gunbalanya_buildings_20250606_122427.csv
+2025-06-06 12:24:27,479 - INFO - 🗺️ KML saved: output/gunbalanya/gunbalanya_buildings_20250606_122427.kml
+2025-06-06 12:24:27,481 - INFO - 📄 Summary saved: output/gunbalanya/gunbalanya_summary_20250606_122427.txt
+2025-06-06 12:24:27,481 - INFO - ✅ Gunbalanya: 3 buildings found
+2025-06-06 12:24:27,481 - INFO - 🏠 Processing: Hermannsburg
+2025-06-06 12:24:27,481 - INFO - 📍 Coordinates: -23.9427, 132.7787
+2025-06-06 12:24:27,599 - INFO - ✅ OSMnx point query: 112 buildings
+2025-06-06 12:24:27,599 - INFO - 🔍 Looking up addresses for 112 buildings...
+2025-06-06 12:26:48,780 - INFO - 🏠 Successfully geocoded 112/112 addresses
+2025-06-06 12:26:48,781 - INFO - 💾 Cached buildings data: 52fb03e598fc3d5974166b489780e4e1
+2025-06-06 12:26:50,785 - INFO - 💾 CSV saved: output/hermannsburg/hermannsburg_buildings_20250606_122650.csv
+2025-06-06 12:26:50,808 - INFO - 🗺️ KML saved: output/hermannsburg/hermannsburg_buildings_20250606_122650.kml
+2025-06-06 12:26:50,809 - INFO - 📄 Summary saved: output/hermannsburg/hermannsburg_summary_20250606_122650.txt
+2025-06-06 12:26:50,809 - INFO - ✅ Hermannsburg: 112 buildings found
+2025-06-06 12:26:50,809 - INFO - 🏠 Processing: Irrerlirre
+2025-06-06 12:26:50,809 - INFO - 📍 Coordinates: -22.8462, 135.1345
+2025-06-06 12:26:50,902 - INFO - ✅ OSMnx point query: 20 buildings
+2025-06-06 12:26:50,902 - INFO - 🔍 Looking up addresses for 20 buildings...
+2025-06-06 12:27:16,159 - INFO - 🏠 Successfully geocoded 20/20 addresses
+2025-06-06 12:27:16,159 - INFO - 💾 Cached buildings data: 235d197aa430255f5c8fdce93837b2df
+2025-06-06 12:27:18,165 - INFO - 💾 CSV saved: output/irrerlirre/irrerlirre_buildings_20250606_122718.csv
+2025-06-06 12:27:18,175 - INFO - 🗺️ KML saved: output/irrerlirre/irrerlirre_buildings_20250606_122718.kml
+2025-06-06 12:27:18,176 - INFO - 📄 Summary saved: output/irrerlirre/irrerlirre_summary_20250606_122718.txt
+2025-06-06 12:27:18,176 - INFO - ✅ Irrerlirre: 20 buildings found
+2025-06-06 12:27:18,177 - INFO - 🏠 Processing: Kalkarindji 
+2025-06-06 12:27:18,177 - INFO - 📍 Coordinates: -17.44670592, 130.8314152
+2025-06-06 12:27:18,303 - INFO - ✅ OSMnx point query: 161 buildings
+2025-06-06 12:27:18,303 - INFO - 🔍 Looking up addresses for 161 buildings...
+2025-06-06 12:30:47,708 - INFO - 🏠 Successfully geocoded 161/161 addresses
+2025-06-06 12:30:47,708 - INFO - 💾 Cached buildings data: b51986e76e68c008bf7614868f9d41ce
+2025-06-06 12:30:49,714 - INFO - 💾 CSV saved: output/kalkarindji/kalkarindji_buildings_20250606_123049.csv
+2025-06-06 12:30:49,746 - INFO - 🗺️ KML saved: output/kalkarindji/kalkarindji_buildings_20250606_123049.kml
+2025-06-06 12:30:49,748 - INFO - 📄 Summary saved: output/kalkarindji/kalkarindji_summary_20250606_123049.txt
+2025-06-06 12:30:49,748 - INFO - ✅ Kalkarindji : 161 buildings found
+2025-06-06 12:30:49,748 - INFO - 🏠 Processing: Kintore
+2025-06-06 12:30:49,748 - INFO - 📍 Coordinates: -23.27591, 129.38725
+2025-06-06 12:30:49,857 - INFO - ✅ OSMnx point query: 154 buildings
+2025-06-06 12:30:49,857 - INFO - 🔍 Looking up addresses for 154 buildings...
+2025-06-06 12:33:09,764 - INFO - ✅ Loaded 24 valid communities from TownData.csv
+2025-06-06 12:33:09,764 - INFO - 🏘️ Enhanced extractor initialized for 24 communities
+2025-06-06 12:33:09,764 - INFO - 📁 Output: /home/jack/BuildingDetector/output
+2025-06-06 12:33:09,764 - INFO - 💾 Cache: /home/jack/BuildingDetector/cache
+2025-06-06 12:33:09,764 - INFO - 🔍 Geocoding: Enabled
+2025-06-06 12:33:09,764 - INFO - 🚀 Starting batch processing of 24 communities
+2025-06-06 12:33:09,765 - INFO - 💾 Cache directory: /home/jack/BuildingDetector/cache
+2025-06-06 12:33:09,765 - INFO - 🔄 Force refresh: False
+2025-06-06 12:33:09,765 - INFO - 🏠 Processing: 16 Mile Camp
+2025-06-06 12:33:09,765 - INFO - 📍 Coordinates: -23.45764, 133.83248
+2025-06-06 12:33:09,766 - INFO - 💾 Cache hit: b3b93e4e45d0c6df9cd8b771adffedbe
+2025-06-06 12:33:09,766 - INFO - 📦 Using cached data for 16 Mile Camp
+2025-06-06 12:33:09,768 - INFO - 💾 CSV saved: output/16_mile_camp/16_mile_camp_buildings_20250606_123309.csv
+2025-06-06 12:33:09,774 - INFO - 🗺️ KML saved: output/16_mile_camp/16_mile_camp_buildings_20250606_123309.kml
+2025-06-06 12:33:09,776 - INFO - 📄 Summary saved: output/16_mile_camp/16_mile_camp_summary_20250606_123309.txt
+2025-06-06 12:33:09,776 - INFO - ✅ 16 Mile Camp: 2 buildings found
+2025-06-06 12:33:09,776 - INFO - 🏠 Processing: Alkupitja
+2025-06-06 12:33:09,776 - INFO - 📍 Coordinates: -23.06533, 133.69436
+2025-06-06 12:33:09,776 - INFO - 💾 Cache hit: 262fa748285666549c40c63280eb19d7
+2025-06-06 12:33:09,777 - INFO - 📦 Using cached data for Alkupitja
+2025-06-06 12:33:09,778 - INFO - 💾 CSV saved: output/alkupitja/alkupitja_buildings_20250606_123309.csv
+2025-06-06 12:33:09,785 - INFO - 🗺️ KML saved: output/alkupitja/alkupitja_buildings_20250606_123309.kml
+2025-06-06 12:33:09,786 - INFO - 📄 Summary saved: output/alkupitja/alkupitja_summary_20250606_123309.txt
+2025-06-06 12:33:09,786 - INFO - ✅ Alkupitja: 8 buildings found
+2025-06-06 12:33:09,786 - INFO - 🏠 Processing: Angurugu
+2025-06-06 12:33:09,786 - INFO - 📍 Coordinates: -13.9822, 136.4606
+2025-06-06 12:33:09,787 - INFO - 💾 Cache hit: 940a92aa3da64dd310c0eafbda64bdf5
+2025-06-06 12:33:09,787 - INFO - 📦 Using cached data for Angurugu
+2025-06-06 12:33:09,789 - INFO - 💾 CSV saved: output/angurugu/angurugu_buildings_20250606_123309.csv
+2025-06-06 12:33:09,819 - INFO - 🗺️ KML saved: output/angurugu/angurugu_buildings_20250606_123309.kml
+2025-06-06 12:33:09,820 - INFO - 📄 Summary saved: output/angurugu/angurugu_summary_20250606_123309.txt
+2025-06-06 12:33:09,820 - INFO - ✅ Angurugu: 113 buildings found
+2025-06-06 12:33:09,820 - INFO - 🏠 Processing: Artekerre
+2025-06-06 12:33:09,820 - INFO - 📍 Coordinates: -23.257387, 133.766604
+2025-06-06 12:33:09,821 - INFO - 💾 Cache hit: 45d8e39fafce77e03bb827a98849b7e9
+2025-06-06 12:33:09,821 - INFO - 📦 Using cached data for Artekerre
+2025-06-06 12:33:09,822 - INFO - 💾 CSV saved: output/artekerre/artekerre_buildings_20250606_123309.csv
+2025-06-06 12:33:09,831 - INFO - 🗺️ KML saved: output/artekerre/artekerre_buildings_20250606_123309.kml
+2025-06-06 12:33:09,832 - INFO - 📄 Summary saved: output/artekerre/artekerre_summary_20250606_123309.txt
+2025-06-06 12:33:09,832 - INFO - ✅ Artekerre: 14 buildings found
+2025-06-06 12:33:09,832 - INFO - 🏠 Processing: Black Tank Bore
+2025-06-06 12:33:09,833 - INFO - 📍 Coordinates: -23.32352, 134.02049
+2025-06-06 12:33:09,833 - INFO - 💾 Cache hit: 081849c326f4b38f5ab5f8425f8dedc1
+2025-06-06 12:33:09,833 - INFO - 📦 Using cached data for Black Tank Bore
+2025-06-06 12:33:09,834 - INFO - 💾 CSV saved: output/black_tank_bore/black_tank_bore_buildings_20250606_123309.csv
+2025-06-06 12:33:09,841 - INFO - 🗺️ KML saved: output/black_tank_bore/black_tank_bore_buildings_20250606_123309.kml
+2025-06-06 12:33:09,841 - INFO - 📄 Summary saved: output/black_tank_bore/black_tank_bore_summary_20250606_123309.txt
+2025-06-06 12:33:09,842 - INFO - ✅ Black Tank Bore: 6 buildings found
+2025-06-06 12:33:09,842 - INFO - 🏠 Processing: Burt Creek
+2025-06-06 12:33:09,842 - INFO - 📍 Coordinates: -23.19652, 133.74759
+2025-06-06 12:33:09,842 - INFO - 💾 Cache hit: f5bf96a932c1053e3848af489c10b529
+2025-06-06 12:33:09,842 - INFO - 📦 Using cached data for Burt Creek
+2025-06-06 12:33:09,844 - INFO - 💾 CSV saved: output/burt_creek/burt_creek_buildings_20250606_123309.csv
+2025-06-06 12:33:09,851 - INFO - 🗺️ KML saved: output/burt_creek/burt_creek_buildings_20250606_123309.kml
+2025-06-06 12:33:09,852 - INFO - 📄 Summary saved: output/burt_creek/burt_creek_summary_20250606_123309.txt
+2025-06-06 12:33:09,852 - INFO - ✅ Burt Creek: 11 buildings found
+2025-06-06 12:33:09,853 - INFO - 🏠 Processing: Corkwood Bore
+2025-06-06 12:33:09,853 - INFO - 📍 Coordinates: -23.31225, 133.86792
+2025-06-06 12:33:09,853 - INFO - 💾 Cache hit: 2d9c4c457c3a27c02c3d2850551a0c71
+2025-06-06 12:33:09,853 - INFO - 📦 Using cached data for Corkwood Bore
+2025-06-06 12:33:09,855 - INFO - 💾 CSV saved: output/corkwood_bore/corkwood_bore_buildings_20250606_123309.csv
+2025-06-06 12:33:09,861 - INFO - 🗺️ KML saved: output/corkwood_bore/corkwood_bore_buildings_20250606_123309.kml
+2025-06-06 12:33:09,862 - INFO - 📄 Summary saved: output/corkwood_bore/corkwood_bore_summary_20250606_123309.txt
+2025-06-06 12:33:09,862 - INFO - ✅ Corkwood Bore: 5 buildings found
+2025-06-06 12:33:09,862 - INFO - 🏠 Processing: Gunbalanya
+2025-06-06 12:33:09,862 - INFO - 📍 Coordinates: -12.324, 133.056
+2025-06-06 12:33:09,863 - INFO - 💾 Cache hit: f7fc4cc4c7e4403bc3005240d355e892
+2025-06-06 12:33:09,863 - INFO - 📦 Using cached data for Gunbalanya
+2025-06-06 12:33:09,864 - INFO - 💾 CSV saved: output/gunbalanya/gunbalanya_buildings_20250606_123309.csv
+2025-06-06 12:33:09,869 - INFO - 🗺️ KML saved: output/gunbalanya/gunbalanya_buildings_20250606_123309.kml
+2025-06-06 12:33:09,870 - INFO - 📄 Summary saved: output/gunbalanya/gunbalanya_summary_20250606_123309.txt
+2025-06-06 12:33:09,870 - INFO - ✅ Gunbalanya: 3 buildings found
+2025-06-06 12:33:09,871 - INFO - 🏠 Processing: Hermannsburg
+2025-06-06 12:33:09,871 - INFO - 📍 Coordinates: -23.9427, 132.7787
+2025-06-06 12:33:09,871 - INFO - 💾 Cache hit: 52fb03e598fc3d5974166b489780e4e1
+2025-06-06 12:33:09,871 - INFO - 📦 Using cached data for Hermannsburg
+2025-06-06 12:33:09,874 - INFO - 💾 CSV saved: output/hermannsburg/hermannsburg_buildings_20250606_123309.csv
+2025-06-06 12:33:09,901 - INFO - 🗺️ KML saved: output/hermannsburg/hermannsburg_buildings_20250606_123309.kml
+2025-06-06 12:33:09,902 - INFO - 📄 Summary saved: output/hermannsburg/hermannsburg_summary_20250606_123309.txt
+2025-06-06 12:33:09,902 - INFO - ✅ Hermannsburg: 112 buildings found
+2025-06-06 12:33:09,903 - INFO - 🏠 Processing: Irrerlirre
+2025-06-06 12:33:09,903 - INFO - 📍 Coordinates: -22.8462, 135.1345
+2025-06-06 12:33:09,903 - INFO - 💾 Cache hit: 235d197aa430255f5c8fdce93837b2df
+2025-06-06 12:33:09,903 - INFO - 📦 Using cached data for Irrerlirre
+2025-06-06 12:33:09,905 - INFO - 💾 CSV saved: output/irrerlirre/irrerlirre_buildings_20250606_123309.csv
+2025-06-06 12:33:09,914 - INFO - 🗺️ KML saved: output/irrerlirre/irrerlirre_buildings_20250606_123309.kml
+2025-06-06 12:33:09,915 - INFO - 📄 Summary saved: output/irrerlirre/irrerlirre_summary_20250606_123309.txt
+2025-06-06 12:33:09,915 - INFO - ✅ Irrerlirre: 20 buildings found
+2025-06-06 12:33:09,915 - INFO - 🏠 Processing: Kalkarindji 
+2025-06-06 12:33:09,915 - INFO - 📍 Coordinates: -17.44670592, 130.8314152
+2025-06-06 12:33:09,916 - INFO - 💾 Cache hit: b51986e76e68c008bf7614868f9d41ce
+2025-06-06 12:33:09,916 - INFO - 📦 Using cached data for Kalkarindji 
+2025-06-06 12:33:09,918 - INFO - 💾 CSV saved: output/kalkarindji/kalkarindji_buildings_20250606_123309.csv
+2025-06-06 12:33:09,956 - INFO - 🗺️ KML saved: output/kalkarindji/kalkarindji_buildings_20250606_123309.kml
+2025-06-06 12:33:09,958 - INFO - 📄 Summary saved: output/kalkarindji/kalkarindji_summary_20250606_123309.txt
+2025-06-06 12:33:09,958 - INFO - ✅ Kalkarindji : 161 buildings found
+2025-06-06 12:33:09,958 - INFO - 🏠 Processing: Kintore
+2025-06-06 12:33:09,958 - INFO - 📍 Coordinates: -23.27591, 129.38725
+2025-06-06 12:33:10,249 - INFO - ✅ OSMnx point query: 154 buildings
+2025-06-06 12:33:10,249 - INFO - 🔍 Looking up addresses for 154 buildings...
+2025-06-06 12:34:22,069 - INFO - 🏠 Successfully geocoded 154/154 addresses
+2025-06-06 12:34:22,070 - INFO - 💾 Cached buildings data: bc388284631410120849f44d6d1b388c
+2025-06-06 12:34:24,075 - INFO - 💾 CSV saved: output/kintore/kintore_buildings_20250606_123424.csv
+2025-06-06 12:34:24,112 - INFO - 🗺️ KML saved: output/kintore/kintore_buildings_20250606_123424.kml
+2025-06-06 12:34:24,113 - INFO - 📄 Summary saved: output/kintore/kintore_summary_20250606_123424.txt
+2025-06-06 12:34:24,113 - INFO - ✅ Kintore: 154 buildings found
+2025-06-06 12:34:24,114 - INFO - 🏠 Processing: Mbunghara
+2025-06-06 12:34:24,114 - INFO - 📍 Coordinates: -23.29071, 132.35891
+2025-06-06 12:34:24,208 - INFO - ✅ OSMnx point query: 14 buildings
+2025-06-06 12:34:24,209 - INFO - 🔍 Looking up addresses for 14 buildings...
+2025-06-06 12:34:41,841 - INFO - 🏠 Successfully geocoded 14/14 addresses
+2025-06-06 12:34:41,842 - INFO - 💾 Cached buildings data: c5d1be55ee51029e69959410b776e2d2
+2025-06-06 12:34:43,846 - INFO - 💾 CSV saved: output/mbunghara/mbunghara_buildings_20250606_123443.csv
+2025-06-06 12:34:43,854 - INFO - 🗺️ KML saved: output/mbunghara/mbunghara_buildings_20250606_123443.kml
+2025-06-06 12:34:43,855 - INFO - 📄 Summary saved: output/mbunghara/mbunghara_summary_20250606_123443.txt
+2025-06-06 12:34:43,855 - INFO - ✅ Mbunghara: 14 buildings found
+2025-06-06 12:34:43,856 - INFO - 🏠 Processing: Milingimbi
+2025-06-06 12:34:43,856 - INFO - 📍 Coordinates: -12.1036, 134.9201
+2025-06-06 12:34:43,977 - INFO - ✅ OSMnx point query: 205 buildings
+2025-06-06 12:34:43,977 - INFO - 🔍 Looking up addresses for 205 buildings...
+2025-06-06 12:39:25,048 - INFO - 🏠 Successfully geocoded 205/205 addresses
+2025-06-06 12:39:25,049 - INFO - 💾 Cached buildings data: 8e166e2b2d0858a8c3315ce4e54acf62
+2025-06-06 12:39:27,055 - INFO - 💾 CSV saved: output/milingimbi/milingimbi_buildings_20250606_123927.csv
+2025-06-06 12:39:27,100 - INFO - 🗺️ KML saved: output/milingimbi/milingimbi_buildings_20250606_123927.kml
+2025-06-06 12:39:27,101 - INFO - 📄 Summary saved: output/milingimbi/milingimbi_summary_20250606_123927.txt
+2025-06-06 12:39:27,101 - INFO - ✅ Milingimbi: 205 buildings found
+2025-06-06 12:39:27,101 - INFO - 🏠 Processing: Ngukurr
+2025-06-06 12:39:27,101 - INFO - 📍 Coordinates: -14.7317, 134.7321
+2025-06-06 12:39:27,192 - INFO - ✅ OSMnx point query: 13 buildings
+2025-06-06 12:39:27,192 - INFO - 🔍 Looking up addresses for 13 buildings...
+2025-06-06 12:39:45,188 - INFO - 🏠 Successfully geocoded 13/13 addresses
+2025-06-06 12:39:45,189 - INFO - 💾 Cached buildings data: ffd93f5d523c7a0c62dded7c0bb13e8f
+2025-06-06 12:39:47,193 - INFO - 💾 CSV saved: output/ngukurr/ngukurr_buildings_20250606_123947.csv
+2025-06-06 12:39:47,201 - INFO - 🗺️ KML saved: output/ngukurr/ngukurr_buildings_20250606_123947.kml
+2025-06-06 12:39:47,203 - INFO - 📄 Summary saved: output/ngukurr/ngukurr_summary_20250606_123947.txt
+2025-06-06 12:39:47,203 - INFO - ✅ Ngukurr: 13 buildings found
+2025-06-06 12:39:47,203 - INFO - 🏠 Processing: Orrtipa Thurra
+2025-06-06 12:39:47,203 - INFO - 📍 Coordinates: -22.784582, 136.16829
+2025-06-06 12:39:47,357 - INFO - ✅ OSMnx point query: 26 buildings
+2025-06-06 12:39:47,357 - INFO - 🔍 Looking up addresses for 26 buildings...
+2025-06-06 12:40:23,424 - INFO - 🏠 Successfully geocoded 26/26 addresses
+2025-06-06 12:40:23,424 - INFO - 💾 Cached buildings data: b71f2425522785c940ee423e0c58c5fd
+2025-06-06 12:40:25,429 - INFO - 💾 CSV saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_124025.csv
+2025-06-06 12:40:25,439 - INFO - 🗺️ KML saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_124025.kml
+2025-06-06 12:40:25,440 - INFO - 📄 Summary saved: output/orrtipa_thurra/orrtipa_thurra_summary_20250606_124025.txt
+2025-06-06 12:40:25,440 - INFO - ✅ Orrtipa Thurra: 26 buildings found
+2025-06-06 12:40:25,441 - INFO - 🏠 Processing: Papunya
+2025-06-06 12:40:25,441 - INFO - 📍 Coordinates: -23.203056, 131.9111
+2025-06-06 12:40:25,544 - INFO - ✅ OSMnx point query: 84 buildings
+2025-06-06 12:40:25,545 - INFO - 🔍 Looking up addresses for 84 buildings...
+2025-06-06 12:42:13,194 - INFO - 🏠 Successfully geocoded 84/84 addresses
+2025-06-06 12:42:13,196 - INFO - 💾 Cached buildings data: cb6db6e7b018d828158f9eb808d44750
+2025-06-06 12:42:15,201 - INFO - 💾 CSV saved: output/papunya/papunya_buildings_20250606_124215.csv
+2025-06-06 12:42:15,223 - INFO - 🗺️ KML saved: output/papunya/papunya_buildings_20250606_124215.kml
+2025-06-06 12:42:15,224 - INFO - 📄 Summary saved: output/papunya/papunya_summary_20250606_124215.txt
+2025-06-06 12:42:15,224 - INFO - ✅ Papunya: 84 buildings found
+2025-06-06 12:42:15,224 - INFO - 🏠 Processing: Santa Teresa
+2025-06-06 12:42:15,224 - INFO - 📍 Coordinates: -24.1307, 134.3733
+2025-06-06 12:42:15,331 - INFO - ✅ OSMnx point query: 97 buildings
+2025-06-06 12:42:15,331 - INFO - 🔍 Looking up addresses for 97 buildings...
+2025-06-06 12:42:51,808 - INFO - ✅ Loaded 24 valid communities from TownData.csv
+2025-06-06 12:42:51,808 - INFO - 🏘️ Enhanced extractor initialized for 24 communities
+2025-06-06 12:42:51,808 - INFO - 📁 Output: /home/jack/BuildingDetector/output
+2025-06-06 12:42:51,809 - INFO - 💾 Cache: /home/jack/BuildingDetector/cache
+2025-06-06 12:42:51,809 - INFO - 🔍 Geocoding: Enabled
+2025-06-06 12:42:51,809 - INFO - 🚀 Starting batch processing of 24 communities
+2025-06-06 12:42:51,809 - INFO - 💾 Cache directory: /home/jack/BuildingDetector/cache
+2025-06-06 12:42:51,809 - INFO - 🔄 Force refresh: False
+2025-06-06 12:42:51,810 - INFO - 🏠 Processing: 16 Mile Camp
+2025-06-06 12:42:51,810 - INFO - 📍 Coordinates: -23.45764, 133.83248
+2025-06-06 12:42:51,810 - INFO - 💾 Cache hit: b3b93e4e45d0c6df9cd8b771adffedbe
+2025-06-06 12:42:51,811 - INFO - 📦 Using cached data for 16 Mile Camp
+2025-06-06 12:42:51,813 - INFO - 💾 CSV saved: output/16_mile_camp/16_mile_camp_buildings_20250606_124251.csv
+2025-06-06 12:42:51,822 - INFO - 🗺️ KML saved: output/16_mile_camp/16_mile_camp_buildings_20250606_124251.kml
+2025-06-06 12:42:51,824 - INFO - 📄 Summary saved: output/16_mile_camp/16_mile_camp_summary_20250606_124251.txt
+2025-06-06 12:42:51,824 - INFO - ✅ 16 Mile Camp: 2 buildings found
+2025-06-06 12:42:51,824 - INFO - 🏠 Processing: Alkupitja
+2025-06-06 12:42:51,824 - INFO - 📍 Coordinates: -23.06533, 133.69436
+2025-06-06 12:42:51,825 - INFO - 💾 Cache hit: 262fa748285666549c40c63280eb19d7
+2025-06-06 12:42:51,825 - INFO - 📦 Using cached data for Alkupitja
+2025-06-06 12:42:51,827 - INFO - 💾 CSV saved: output/alkupitja/alkupitja_buildings_20250606_124251.csv
+2025-06-06 12:42:51,837 - INFO - 🗺️ KML saved: output/alkupitja/alkupitja_buildings_20250606_124251.kml
+2025-06-06 12:42:51,839 - INFO - 📄 Summary saved: output/alkupitja/alkupitja_summary_20250606_124251.txt
+2025-06-06 12:42:51,839 - INFO - ✅ Alkupitja: 8 buildings found
+2025-06-06 12:42:51,839 - INFO - 🏠 Processing: Angurugu
+2025-06-06 12:42:51,839 - INFO - 📍 Coordinates: -13.9822, 136.4606
+2025-06-06 12:42:51,840 - INFO - 💾 Cache hit: 940a92aa3da64dd310c0eafbda64bdf5
+2025-06-06 12:42:51,840 - INFO - 📦 Using cached data for Angurugu
+2025-06-06 12:42:51,843 - INFO - 💾 CSV saved: output/angurugu/angurugu_buildings_20250606_124251.csv
+2025-06-06 12:42:51,878 - INFO - 🗺️ KML saved: output/angurugu/angurugu_buildings_20250606_124251.kml
+2025-06-06 12:42:51,880 - INFO - 📄 Summary saved: output/angurugu/angurugu_summary_20250606_124251.txt
+2025-06-06 12:42:51,880 - INFO - ✅ Angurugu: 113 buildings found
+2025-06-06 12:42:51,880 - INFO - 🏠 Processing: Artekerre
+2025-06-06 12:42:51,880 - INFO - 📍 Coordinates: -23.257387, 133.766604
+2025-06-06 12:42:51,881 - INFO - 💾 Cache hit: 45d8e39fafce77e03bb827a98849b7e9
+2025-06-06 12:42:51,881 - INFO - 📦 Using cached data for Artekerre
+2025-06-06 12:42:51,883 - INFO - 💾 CSV saved: output/artekerre/artekerre_buildings_20250606_124251.csv
+2025-06-06 12:42:51,892 - INFO - 🗺️ KML saved: output/artekerre/artekerre_buildings_20250606_124251.kml
+2025-06-06 12:42:51,893 - INFO - 📄 Summary saved: output/artekerre/artekerre_summary_20250606_124251.txt
+2025-06-06 12:42:51,893 - INFO - ✅ Artekerre: 14 buildings found
+2025-06-06 12:42:51,894 - INFO - 🏠 Processing: Black Tank Bore
+2025-06-06 12:42:51,894 - INFO - 📍 Coordinates: -23.32352, 134.02049
+2025-06-06 12:42:51,894 - INFO - 💾 Cache hit: 081849c326f4b38f5ab5f8425f8dedc1
+2025-06-06 12:42:51,894 - INFO - 📦 Using cached data for Black Tank Bore
+2025-06-06 12:42:51,896 - INFO - 💾 CSV saved: output/black_tank_bore/black_tank_bore_buildings_20250606_124251.csv
+2025-06-06 12:42:51,902 - INFO - 🗺️ KML saved: output/black_tank_bore/black_tank_bore_buildings_20250606_124251.kml
+2025-06-06 12:42:51,903 - INFO - 📄 Summary saved: output/black_tank_bore/black_tank_bore_summary_20250606_124251.txt
+2025-06-06 12:42:51,903 - INFO - ✅ Black Tank Bore: 6 buildings found
+2025-06-06 12:42:51,904 - INFO - 🏠 Processing: Burt Creek
+2025-06-06 12:42:51,904 - INFO - 📍 Coordinates: -23.19652, 133.74759
+2025-06-06 12:42:51,904 - INFO - 💾 Cache hit: f5bf96a932c1053e3848af489c10b529
+2025-06-06 12:42:51,904 - INFO - 📦 Using cached data for Burt Creek
+2025-06-06 12:42:51,906 - INFO - 💾 CSV saved: output/burt_creek/burt_creek_buildings_20250606_124251.csv
+2025-06-06 12:42:51,914 - INFO - 🗺️ KML saved: output/burt_creek/burt_creek_buildings_20250606_124251.kml
+2025-06-06 12:42:51,915 - INFO - 📄 Summary saved: output/burt_creek/burt_creek_summary_20250606_124251.txt
+2025-06-06 12:42:51,915 - INFO - ✅ Burt Creek: 11 buildings found
+2025-06-06 12:42:51,916 - INFO - 🏠 Processing: Corkwood Bore
+2025-06-06 12:42:51,916 - INFO - 📍 Coordinates: -23.31225, 133.86792
+2025-06-06 12:42:51,916 - INFO - 💾 Cache hit: 2d9c4c457c3a27c02c3d2850551a0c71
+2025-06-06 12:42:51,916 - INFO - 📦 Using cached data for Corkwood Bore
+2025-06-06 12:42:51,918 - INFO - 💾 CSV saved: output/corkwood_bore/corkwood_bore_buildings_20250606_124251.csv
+2025-06-06 12:42:51,924 - INFO - 🗺️ KML saved: output/corkwood_bore/corkwood_bore_buildings_20250606_124251.kml
+2025-06-06 12:42:51,925 - INFO - 📄 Summary saved: output/corkwood_bore/corkwood_bore_summary_20250606_124251.txt
+2025-06-06 12:42:51,925 - INFO - ✅ Corkwood Bore: 5 buildings found
+2025-06-06 12:42:51,926 - INFO - 🏠 Processing: Gunbalanya
+2025-06-06 12:42:51,926 - INFO - 📍 Coordinates: -12.324, 133.056
+2025-06-06 12:42:51,926 - INFO - 💾 Cache hit: f7fc4cc4c7e4403bc3005240d355e892
+2025-06-06 12:42:51,926 - INFO - 📦 Using cached data for Gunbalanya
+2025-06-06 12:42:51,928 - INFO - 💾 CSV saved: output/gunbalanya/gunbalanya_buildings_20250606_124251.csv
+2025-06-06 12:42:51,934 - INFO - 🗺️ KML saved: output/gunbalanya/gunbalanya_buildings_20250606_124251.kml
+2025-06-06 12:42:51,935 - INFO - 📄 Summary saved: output/gunbalanya/gunbalanya_summary_20250606_124251.txt
+2025-06-06 12:42:51,935 - INFO - ✅ Gunbalanya: 3 buildings found
+2025-06-06 12:42:51,935 - INFO - 🏠 Processing: Hermannsburg
+2025-06-06 12:42:51,936 - INFO - 📍 Coordinates: -23.9427, 132.7787
+2025-06-06 12:42:51,936 - INFO - 💾 Cache hit: 52fb03e598fc3d5974166b489780e4e1
+2025-06-06 12:42:51,936 - INFO - 📦 Using cached data for Hermannsburg
+2025-06-06 12:42:51,939 - INFO - 💾 CSV saved: output/hermannsburg/hermannsburg_buildings_20250606_124251.csv
+2025-06-06 12:42:51,968 - INFO - 🗺️ KML saved: output/hermannsburg/hermannsburg_buildings_20250606_124251.kml
+2025-06-06 12:42:51,970 - INFO - 📄 Summary saved: output/hermannsburg/hermannsburg_summary_20250606_124251.txt
+2025-06-06 12:42:51,970 - INFO - ✅ Hermannsburg: 112 buildings found
+2025-06-06 12:42:51,970 - INFO - 🏠 Processing: Irrerlirre
+2025-06-06 12:42:51,970 - INFO - 📍 Coordinates: -22.8462, 135.1345
+2025-06-06 12:42:51,971 - INFO - 💾 Cache hit: 235d197aa430255f5c8fdce93837b2df
+2025-06-06 12:42:51,971 - INFO - 📦 Using cached data for Irrerlirre
+2025-06-06 12:42:51,972 - INFO - 💾 CSV saved: output/irrerlirre/irrerlirre_buildings_20250606_124251.csv
+2025-06-06 12:42:51,982 - INFO - 🗺️ KML saved: output/irrerlirre/irrerlirre_buildings_20250606_124251.kml
+2025-06-06 12:42:51,983 - INFO - 📄 Summary saved: output/irrerlirre/irrerlirre_summary_20250606_124251.txt
+2025-06-06 12:42:51,984 - INFO - ✅ Irrerlirre: 20 buildings found
+2025-06-06 12:42:51,984 - INFO - 🏠 Processing: Kalkarindji 
+2025-06-06 12:42:51,984 - INFO - 📍 Coordinates: -17.44670592, 130.8314152
+2025-06-06 12:42:51,984 - INFO - 💾 Cache hit: b51986e76e68c008bf7614868f9d41ce
+2025-06-06 12:42:51,985 - INFO - 📦 Using cached data for Kalkarindji 
+2025-06-06 12:42:51,987 - INFO - 💾 CSV saved: output/kalkarindji/kalkarindji_buildings_20250606_124251.csv
+2025-06-06 12:42:52,027 - INFO - 🗺️ KML saved: output/kalkarindji/kalkarindji_buildings_20250606_124251.kml
+2025-06-06 12:42:52,028 - INFO - 📄 Summary saved: output/kalkarindji/kalkarindji_summary_20250606_124252.txt
+2025-06-06 12:42:52,028 - INFO - ✅ Kalkarindji : 161 buildings found
+2025-06-06 12:42:52,028 - INFO - 🏠 Processing: Kintore
+2025-06-06 12:42:52,028 - INFO - 📍 Coordinates: -23.27591, 129.38725
+2025-06-06 12:42:52,029 - INFO - 💾 Cache hit: bc388284631410120849f44d6d1b388c
+2025-06-06 12:42:52,029 - INFO - 📦 Using cached data for Kintore
+2025-06-06 12:42:52,032 - INFO - 💾 CSV saved: output/kintore/kintore_buildings_20250606_124252.csv
+2025-06-06 12:42:52,070 - INFO - 🗺️ KML saved: output/kintore/kintore_buildings_20250606_124252.kml
+2025-06-06 12:42:52,071 - INFO - 📄 Summary saved: output/kintore/kintore_summary_20250606_124252.txt
+2025-06-06 12:42:52,072 - INFO - ✅ Kintore: 154 buildings found
+2025-06-06 12:42:52,072 - INFO - 🏠 Processing: Mbunghara
+2025-06-06 12:42:52,072 - INFO - 📍 Coordinates: -23.29071, 132.35891
+2025-06-06 12:42:52,072 - INFO - 💾 Cache hit: c5d1be55ee51029e69959410b776e2d2
+2025-06-06 12:42:52,072 - INFO - 📦 Using cached data for Mbunghara
+2025-06-06 12:42:52,074 - INFO - 💾 CSV saved: output/mbunghara/mbunghara_buildings_20250606_124252.csv
+2025-06-06 12:42:52,082 - INFO - 🗺️ KML saved: output/mbunghara/mbunghara_buildings_20250606_124252.kml
+2025-06-06 12:42:52,083 - INFO - 📄 Summary saved: output/mbunghara/mbunghara_summary_20250606_124252.txt
+2025-06-06 12:42:52,083 - INFO - ✅ Mbunghara: 14 buildings found
+2025-06-06 12:42:52,083 - INFO - 🏠 Processing: Milingimbi
+2025-06-06 12:42:52,084 - INFO - 📍 Coordinates: -12.1036, 134.9201
+2025-06-06 12:42:52,084 - INFO - 💾 Cache hit: 8e166e2b2d0858a8c3315ce4e54acf62
+2025-06-06 12:42:52,084 - INFO - 📦 Using cached data for Milingimbi
+2025-06-06 12:42:52,087 - INFO - 💾 CSV saved: output/milingimbi/milingimbi_buildings_20250606_124252.csv
+2025-06-06 12:42:52,135 - INFO - 🗺️ KML saved: output/milingimbi/milingimbi_buildings_20250606_124252.kml
+2025-06-06 12:42:52,137 - INFO - 📄 Summary saved: output/milingimbi/milingimbi_summary_20250606_124252.txt
+2025-06-06 12:42:52,137 - INFO - ✅ Milingimbi: 205 buildings found
+2025-06-06 12:42:52,137 - INFO - 🏠 Processing: Ngukurr
+2025-06-06 12:42:52,137 - INFO - 📍 Coordinates: -14.7317, 134.7321
+2025-06-06 12:42:52,138 - INFO - 💾 Cache hit: ffd93f5d523c7a0c62dded7c0bb13e8f
+2025-06-06 12:42:52,138 - INFO - 📦 Using cached data for Ngukurr
+2025-06-06 12:42:52,139 - INFO - 💾 CSV saved: output/ngukurr/ngukurr_buildings_20250606_124252.csv
+2025-06-06 12:42:52,147 - INFO - 🗺️ KML saved: output/ngukurr/ngukurr_buildings_20250606_124252.kml
+2025-06-06 12:42:52,148 - INFO - 📄 Summary saved: output/ngukurr/ngukurr_summary_20250606_124252.txt
+2025-06-06 12:42:52,148 - INFO - ✅ Ngukurr: 13 buildings found
+2025-06-06 12:42:52,149 - INFO - 🏠 Processing: Orrtipa Thurra
+2025-06-06 12:42:52,149 - INFO - 📍 Coordinates: -22.784582, 136.16829
+2025-06-06 12:42:52,149 - INFO - 💾 Cache hit: b71f2425522785c940ee423e0c58c5fd
+2025-06-06 12:42:52,149 - INFO - 📦 Using cached data for Orrtipa Thurra
+2025-06-06 12:42:52,151 - INFO - 💾 CSV saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_124252.csv
+2025-06-06 12:42:52,162 - INFO - 🗺️ KML saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_124252.kml
+2025-06-06 12:42:52,163 - INFO - 📄 Summary saved: output/orrtipa_thurra/orrtipa_thurra_summary_20250606_124252.txt
+2025-06-06 12:42:52,163 - INFO - ✅ Orrtipa Thurra: 26 buildings found
+2025-06-06 12:42:52,164 - INFO - 🏠 Processing: Papunya
+2025-06-06 12:42:52,164 - INFO - 📍 Coordinates: -23.203056, 131.9111
+2025-06-06 12:42:52,164 - INFO - 💾 Cache hit: cb6db6e7b018d828158f9eb808d44750
+2025-06-06 12:42:52,164 - INFO - 📦 Using cached data for Papunya
+2025-06-06 12:42:52,166 - INFO - 💾 CSV saved: output/papunya/papunya_buildings_20250606_124252.csv
+2025-06-06 12:42:52,189 - INFO - 🗺️ KML saved: output/papunya/papunya_buildings_20250606_124252.kml
+2025-06-06 12:42:52,191 - INFO - 📄 Summary saved: output/papunya/papunya_summary_20250606_124252.txt
+2025-06-06 12:42:52,191 - INFO - ✅ Papunya: 84 buildings found
+2025-06-06 12:42:52,191 - INFO - 🏠 Processing: Santa Teresa
+2025-06-06 12:42:52,191 - INFO - 📍 Coordinates: -24.1307, 134.3733
+2025-06-06 12:42:52,514 - INFO - ✅ OSMnx point query: 97 buildings
+2025-06-06 12:42:52,514 - INFO - 🔍 Looking up addresses for 97 buildings...
+2025-06-06 12:44:26,204 - INFO - 🏠 Successfully geocoded 97/97 addresses
+2025-06-06 12:44:26,204 - INFO - 💾 Cached buildings data: 494a5090bc96cb5ebcaa8ef74587361c
+2025-06-06 12:44:28,209 - INFO - 💾 CSV saved: output/santa_teresa/santa_teresa_buildings_20250606_124428.csv
+2025-06-06 12:44:28,289 - INFO - 🗺️ KML saved: output/santa_teresa/santa_teresa_buildings_20250606_124428.kml
+2025-06-06 12:44:28,290 - INFO - 📄 Summary saved: output/santa_teresa/santa_teresa_summary_20250606_124428.txt
+2025-06-06 12:44:28,290 - INFO - ✅ Santa Teresa: 97 buildings found
+2025-06-06 12:44:28,290 - INFO - 🏠 Processing: Snake Well
+2025-06-06 12:44:28,291 - INFO - 📍 Coordinates: -23.159459, 133.915292
+2025-06-06 12:44:28,382 - INFO - ✅ OSMnx point query: 11 buildings
+2025-06-06 12:44:28,382 - INFO - 🔍 Looking up addresses for 11 buildings...
+2025-06-06 12:44:42,201 - INFO - 🏠 Successfully geocoded 11/11 addresses
+2025-06-06 12:44:42,202 - INFO - 💾 Cached buildings data: 0bf5784da0071c47a1227914cffbd731
+2025-06-06 12:44:44,207 - INFO - 💾 CSV saved: output/snake_well/snake_well_buildings_20250606_124444.csv
+2025-06-06 12:44:44,214 - INFO - 🗺️ KML saved: output/snake_well/snake_well_buildings_20250606_124444.kml
+2025-06-06 12:44:44,215 - INFO - 📄 Summary saved: output/snake_well/snake_well_summary_20250606_124444.txt
+2025-06-06 12:44:44,215 - INFO - ✅ Snake Well: 11 buildings found
+2025-06-06 12:44:44,215 - INFO - 🏠 Processing: Undoolya Bore
+2025-06-06 12:44:44,215 - INFO - 📍 Coordinates: -23.74762, 134.11762
+2025-06-06 12:44:44,309 - INFO - ✅ OSMnx point query: 16 buildings
+2025-06-06 12:44:44,309 - INFO - 🔍 Looking up addresses for 16 buildings...
+2025-06-06 12:44:55,915 - INFO - ✅ Loaded 24 valid communities from TownData.csv
+2025-06-06 12:44:55,915 - INFO - 🏘️ Enhanced extractor initialized for 24 communities
+2025-06-06 12:44:55,915 - INFO - 📁 Output: /home/jack/BuildingDetector/output
+2025-06-06 12:44:55,915 - INFO - 💾 Cache: /home/jack/BuildingDetector/cache
+2025-06-06 12:44:55,915 - INFO - 🔍 Geocoding: Enabled
+2025-06-06 12:44:55,915 - INFO - 🚀 Starting batch processing of 24 communities
+2025-06-06 12:44:55,915 - INFO - 💾 Cache directory: /home/jack/BuildingDetector/cache
+2025-06-06 12:44:55,915 - INFO - 🔄 Force refresh: False
+2025-06-06 12:44:55,916 - INFO - 🏠 Processing: 16 Mile Camp
+2025-06-06 12:44:55,916 - INFO - 📍 Coordinates: -23.45764, 133.83248
+2025-06-06 12:44:57,829 - INFO - ✅ OSMnx point query: 2 buildings
+2025-06-06 12:44:58,404 - INFO - 🔍 Looking up addresses for 2 buildings...
+2025-06-06 12:45:00,918 - INFO - 🏠 Successfully geocoded 2/2 addresses
+2025-06-06 12:45:00,918 - INFO - 💾 Cached buildings data: b3b93e4e45d0c6df9cd8b771adffedbe
+2025-06-06 12:45:02,922 - INFO - 💾 CSV saved: output/16_mile_camp/16_mile_camp_buildings_20250606_124502.csv
+2025-06-06 12:45:02,928 - INFO - 🗺️ KML saved: output/16_mile_camp/16_mile_camp_buildings_20250606_124502.kml
+2025-06-06 12:45:02,929 - INFO - 📄 Summary saved: output/16_mile_camp/16_mile_camp_summary_20250606_124502.txt
+2025-06-06 12:45:02,930 - INFO - ✅ 16 Mile Camp: 2 buildings found
+2025-06-06 12:45:02,930 - INFO - 🏠 Processing: Alkupitja
+2025-06-06 12:45:02,930 - INFO - 📍 Coordinates: -23.06533, 133.69436
+2025-06-06 12:45:04,632 - INFO - ✅ OSMnx point query: 8 buildings
+2025-06-06 12:45:04,632 - INFO - 🔍 Looking up addresses for 8 buildings...
+2025-06-06 12:45:14,706 - INFO - 🏠 Successfully geocoded 8/8 addresses
+2025-06-06 12:45:14,706 - INFO - 💾 Cached buildings data: 262fa748285666549c40c63280eb19d7
+2025-06-06 12:45:16,710 - INFO - 💾 CSV saved: output/alkupitja/alkupitja_buildings_20250606_124516.csv
+2025-06-06 12:45:16,717 - INFO - 🗺️ KML saved: output/alkupitja/alkupitja_buildings_20250606_124516.kml
+2025-06-06 12:45:16,719 - INFO - 📄 Summary saved: output/alkupitja/alkupitja_summary_20250606_124516.txt
+2025-06-06 12:45:16,719 - INFO - ✅ Alkupitja: 8 buildings found
+2025-06-06 12:45:16,719 - INFO - 🏠 Processing: Angurugu
+2025-06-06 12:45:16,719 - INFO - 📍 Coordinates: -13.9822, 136.4606
+2025-06-06 12:45:18,515 - INFO - ✅ OSMnx point query: 113 buildings
+2025-06-06 12:45:18,515 - INFO - 🔍 Looking up addresses for 113 buildings...
+2025-06-06 12:47:54,261 - INFO - 🏠 Successfully geocoded 113/113 addresses
+2025-06-06 12:47:54,262 - INFO - 💾 Cached buildings data: 940a92aa3da64dd310c0eafbda64bdf5
+2025-06-06 12:47:56,267 - INFO - 💾 CSV saved: output/angurugu/angurugu_buildings_20250606_124756.csv
+2025-06-06 12:47:56,296 - INFO - 🗺️ KML saved: output/angurugu/angurugu_buildings_20250606_124756.kml
+2025-06-06 12:47:56,298 - INFO - 📄 Summary saved: output/angurugu/angurugu_summary_20250606_124756.txt
+2025-06-06 12:47:56,298 - INFO - ✅ Angurugu: 113 buildings found
+2025-06-06 12:47:56,298 - INFO - 🏠 Processing: Artekerre
+2025-06-06 12:47:56,298 - INFO - 📍 Coordinates: -23.257387, 133.766604
+2025-06-06 12:47:57,929 - INFO - ✅ OSMnx point query: 14 buildings
+2025-06-06 12:47:57,929 - INFO - 🔍 Looking up addresses for 14 buildings...
+2025-06-06 12:48:17,305 - INFO - 🏠 Successfully geocoded 14/14 addresses
+2025-06-06 12:48:17,306 - INFO - 💾 Cached buildings data: 45d8e39fafce77e03bb827a98849b7e9
+2025-06-06 12:48:19,310 - INFO - 💾 CSV saved: output/artekerre/artekerre_buildings_20250606_124819.csv
+2025-06-06 12:48:19,318 - INFO - 🗺️ KML saved: output/artekerre/artekerre_buildings_20250606_124819.kml
+2025-06-06 12:48:19,319 - INFO - 📄 Summary saved: output/artekerre/artekerre_summary_20250606_124819.txt
+2025-06-06 12:48:19,320 - INFO - ✅ Artekerre: 14 buildings found
+2025-06-06 12:48:19,320 - INFO - 🏠 Processing: Black Tank Bore
+2025-06-06 12:48:19,320 - INFO - 📍 Coordinates: -23.32352, 134.02049
+2025-06-06 12:48:22,552 - INFO - ✅ OSMnx point query: 6 buildings
+2025-06-06 12:48:22,553 - INFO - 🔍 Looking up addresses for 6 buildings...
+2025-06-06 12:48:30,839 - INFO - 🏠 Successfully geocoded 6/6 addresses
+2025-06-06 12:48:30,840 - INFO - 💾 Cached buildings data: 081849c326f4b38f5ab5f8425f8dedc1
+2025-06-06 12:48:32,844 - INFO - 💾 CSV saved: output/black_tank_bore/black_tank_bore_buildings_20250606_124832.csv
+2025-06-06 12:48:32,850 - INFO - 🗺️ KML saved: output/black_tank_bore/black_tank_bore_buildings_20250606_124832.kml
+2025-06-06 12:48:32,851 - INFO - 📄 Summary saved: output/black_tank_bore/black_tank_bore_summary_20250606_124832.txt
+2025-06-06 12:48:32,851 - INFO - ✅ Black Tank Bore: 6 buildings found
+2025-06-06 12:48:32,852 - INFO - 🏠 Processing: Burt Creek
+2025-06-06 12:48:32,852 - INFO - 📍 Coordinates: -23.19652, 133.74759
+2025-06-06 12:48:34,496 - INFO - ✅ OSMnx point query: 11 buildings
+2025-06-06 12:48:34,496 - INFO - 🔍 Looking up addresses for 11 buildings...
+2025-06-06 12:48:49,702 - INFO - 🏠 Successfully geocoded 11/11 addresses
+2025-06-06 12:48:49,703 - INFO - 💾 Cached buildings data: f5bf96a932c1053e3848af489c10b529
+2025-06-06 12:48:51,707 - INFO - 💾 CSV saved: output/burt_creek/burt_creek_buildings_20250606_124851.csv
+2025-06-06 12:48:51,714 - INFO - 🗺️ KML saved: output/burt_creek/burt_creek_buildings_20250606_124851.kml
+2025-06-06 12:48:51,715 - INFO - 📄 Summary saved: output/burt_creek/burt_creek_summary_20250606_124851.txt
+2025-06-06 12:48:51,715 - INFO - ✅ Burt Creek: 11 buildings found
+2025-06-06 12:48:51,715 - INFO - 🏠 Processing: Corkwood Bore
+2025-06-06 12:48:51,715 - INFO - 📍 Coordinates: -23.31225, 133.86792
+2025-06-06 12:48:53,468 - INFO - ✅ OSMnx point query: 5 buildings
+2025-06-06 12:48:53,468 - INFO - 🔍 Looking up addresses for 5 buildings...
+2025-06-06 12:49:00,351 - INFO - 🏠 Successfully geocoded 5/5 addresses
+2025-06-06 12:49:00,352 - INFO - 💾 Cached buildings data: 2d9c4c457c3a27c02c3d2850551a0c71
+2025-06-06 12:49:02,359 - INFO - 💾 CSV saved: output/corkwood_bore/corkwood_bore_buildings_20250606_124902.csv
+2025-06-06 12:49:02,367 - INFO - 🗺️ KML saved: output/corkwood_bore/corkwood_bore_buildings_20250606_124902.kml
+2025-06-06 12:49:02,368 - INFO - 📄 Summary saved: output/corkwood_bore/corkwood_bore_summary_20250606_124902.txt
+2025-06-06 12:49:02,368 - INFO - ✅ Corkwood Bore: 5 buildings found
+2025-06-06 12:49:02,369 - INFO - 🏠 Processing: Gunbalanya
+2025-06-06 12:49:02,369 - INFO - 📍 Coordinates: -12.324, 133.056
+2025-06-06 12:49:04,098 - INFO - ✅ OSMnx point query: 3 buildings
+2025-06-06 12:49:04,098 - INFO - 🔍 Looking up addresses for 3 buildings...
+2025-06-06 12:49:08,284 - INFO - 🏠 Successfully geocoded 3/3 addresses
+2025-06-06 12:49:08,284 - INFO - 💾 Cached buildings data: f7fc4cc4c7e4403bc3005240d355e892
+2025-06-06 12:49:10,288 - INFO - 💾 CSV saved: output/gunbalanya/gunbalanya_buildings_20250606_124910.csv
+2025-06-06 12:49:10,294 - INFO - 🗺️ KML saved: output/gunbalanya/gunbalanya_buildings_20250606_124910.kml
+2025-06-06 12:49:10,295 - INFO - 📄 Summary saved: output/gunbalanya/gunbalanya_summary_20250606_124910.txt
+2025-06-06 12:49:10,295 - INFO - ✅ Gunbalanya: 3 buildings found
+2025-06-06 12:49:10,295 - INFO - 🏠 Processing: Hermannsburg
+2025-06-06 12:49:10,295 - INFO - 📍 Coordinates: -23.9427, 132.7787
+2025-06-06 12:49:11,973 - INFO - ✅ OSMnx point query: 112 buildings
+2025-06-06 12:49:11,973 - INFO - 🔍 Looking up addresses for 112 buildings...
+2025-06-06 12:51:23,536 - INFO - ✅ Loaded 24 valid communities from TownData.csv
+2025-06-06 12:51:23,536 - INFO - 🏘️ Enhanced extractor initialized for 24 communities
+2025-06-06 12:51:23,536 - INFO - 📁 Output: /home/jack/BuildingDetector/output
+2025-06-06 12:51:23,536 - INFO - 💾 Cache: /home/jack/BuildingDetector/cache
+2025-06-06 12:51:23,536 - INFO - 🔍 Geocoding: Enabled
+2025-06-06 12:51:23,536 - INFO - 🚀 Starting batch processing of 24 communities
+2025-06-06 12:51:23,537 - INFO - 💾 Cache directory: /home/jack/BuildingDetector/cache
+2025-06-06 12:51:23,537 - INFO - 🔄 Force refresh: False
+2025-06-06 12:51:23,537 - INFO - 🏠 Processing: 16 Mile Camp
+2025-06-06 12:51:23,537 - INFO - 📍 Coordinates: -23.45764, 133.83248
+2025-06-06 12:51:23,538 - INFO - 💾 Cache hit: b3b93e4e45d0c6df9cd8b771adffedbe
+2025-06-06 12:51:23,538 - INFO - 📦 Using cached data for 16 Mile Camp
+2025-06-06 12:51:23,540 - INFO - 💾 CSV saved: output/16_mile_camp/16_mile_camp_buildings_20250606_125123.csv
+2025-06-06 12:51:23,546 - INFO - 🗺️ KML saved: output/16_mile_camp/16_mile_camp_buildings_20250606_125123.kml
+2025-06-06 12:51:23,547 - INFO - 📄 Summary saved: output/16_mile_camp/16_mile_camp_summary_20250606_125123.txt
+2025-06-06 12:51:23,547 - INFO - ✅ 16 Mile Camp: 2 buildings found
+2025-06-06 12:51:23,547 - INFO - 🏠 Processing: Alkupitja
+2025-06-06 12:51:23,548 - INFO - 📍 Coordinates: -23.06533, 133.69436
+2025-06-06 12:51:23,548 - INFO - 💾 Cache hit: 262fa748285666549c40c63280eb19d7
+2025-06-06 12:51:23,548 - INFO - 📦 Using cached data for Alkupitja
+2025-06-06 12:51:23,550 - INFO - 💾 CSV saved: output/alkupitja/alkupitja_buildings_20250606_125123.csv
+2025-06-06 12:51:23,557 - INFO - 🗺️ KML saved: output/alkupitja/alkupitja_buildings_20250606_125123.kml
+2025-06-06 12:51:23,558 - INFO - 📄 Summary saved: output/alkupitja/alkupitja_summary_20250606_125123.txt
+2025-06-06 12:51:23,558 - INFO - ✅ Alkupitja: 8 buildings found
+2025-06-06 12:51:23,558 - INFO - 🏠 Processing: Angurugu
+2025-06-06 12:51:23,558 - INFO - 📍 Coordinates: -13.9822, 136.4606
+2025-06-06 12:51:23,559 - INFO - 💾 Cache hit: 940a92aa3da64dd310c0eafbda64bdf5
+2025-06-06 12:51:23,559 - INFO - 📦 Using cached data for Angurugu
+2025-06-06 12:51:23,561 - INFO - 💾 CSV saved: output/angurugu/angurugu_buildings_20250606_125123.csv
+2025-06-06 12:51:23,591 - INFO - 🗺️ KML saved: output/angurugu/angurugu_buildings_20250606_125123.kml
+2025-06-06 12:51:23,592 - INFO - 📄 Summary saved: output/angurugu/angurugu_summary_20250606_125123.txt
+2025-06-06 12:51:23,592 - INFO - ✅ Angurugu: 113 buildings found
+2025-06-06 12:51:23,592 - INFO - 🏠 Processing: Artekerre
+2025-06-06 12:51:23,592 - INFO - 📍 Coordinates: -23.257387, 133.766604
+2025-06-06 12:51:23,593 - INFO - 💾 Cache hit: 45d8e39fafce77e03bb827a98849b7e9
+2025-06-06 12:51:23,593 - INFO - 📦 Using cached data for Artekerre
+2025-06-06 12:51:23,594 - INFO - 💾 CSV saved: output/artekerre/artekerre_buildings_20250606_125123.csv
+2025-06-06 12:51:23,603 - INFO - 🗺️ KML saved: output/artekerre/artekerre_buildings_20250606_125123.kml
+2025-06-06 12:51:23,604 - INFO - 📄 Summary saved: output/artekerre/artekerre_summary_20250606_125123.txt
+2025-06-06 12:51:23,604 - INFO - ✅ Artekerre: 14 buildings found
+2025-06-06 12:51:23,604 - INFO - 🏠 Processing: Black Tank Bore
+2025-06-06 12:51:23,605 - INFO - 📍 Coordinates: -23.32352, 134.02049
+2025-06-06 12:51:23,605 - INFO - 💾 Cache hit: 081849c326f4b38f5ab5f8425f8dedc1
+2025-06-06 12:51:23,605 - INFO - 📦 Using cached data for Black Tank Bore
+2025-06-06 12:51:23,606 - INFO - 💾 CSV saved: output/black_tank_bore/black_tank_bore_buildings_20250606_125123.csv
+2025-06-06 12:51:23,613 - INFO - 🗺️ KML saved: output/black_tank_bore/black_tank_bore_buildings_20250606_125123.kml
+2025-06-06 12:51:23,614 - INFO - 📄 Summary saved: output/black_tank_bore/black_tank_bore_summary_20250606_125123.txt
+2025-06-06 12:51:23,615 - INFO - ✅ Black Tank Bore: 6 buildings found
+2025-06-06 12:51:23,615 - INFO - 🏠 Processing: Burt Creek
+2025-06-06 12:51:23,615 - INFO - 📍 Coordinates: -23.19652, 133.74759
+2025-06-06 12:51:23,615 - INFO - 💾 Cache hit: f5bf96a932c1053e3848af489c10b529
+2025-06-06 12:51:23,616 - INFO - 📦 Using cached data for Burt Creek
+2025-06-06 12:51:23,617 - INFO - 💾 CSV saved: output/burt_creek/burt_creek_buildings_20250606_125123.csv
+2025-06-06 12:51:23,625 - INFO - 🗺️ KML saved: output/burt_creek/burt_creek_buildings_20250606_125123.kml
+2025-06-06 12:51:23,626 - INFO - 📄 Summary saved: output/burt_creek/burt_creek_summary_20250606_125123.txt
+2025-06-06 12:51:23,627 - INFO - ✅ Burt Creek: 11 buildings found
+2025-06-06 12:51:23,627 - INFO - 🏠 Processing: Corkwood Bore
+2025-06-06 12:51:23,627 - INFO - 📍 Coordinates: -23.31225, 133.86792
+2025-06-06 12:51:23,627 - INFO - 💾 Cache hit: 2d9c4c457c3a27c02c3d2850551a0c71
+2025-06-06 12:51:23,628 - INFO - 📦 Using cached data for Corkwood Bore
+2025-06-06 12:51:23,629 - INFO - 💾 CSV saved: output/corkwood_bore/corkwood_bore_buildings_20250606_125123.csv
+2025-06-06 12:51:23,636 - INFO - 🗺️ KML saved: output/corkwood_bore/corkwood_bore_buildings_20250606_125123.kml
+2025-06-06 12:51:23,637 - INFO - 📄 Summary saved: output/corkwood_bore/corkwood_bore_summary_20250606_125123.txt
+2025-06-06 12:51:23,637 - INFO - ✅ Corkwood Bore: 5 buildings found
+2025-06-06 12:51:23,637 - INFO - 🏠 Processing: Gunbalanya
+2025-06-06 12:51:23,638 - INFO - 📍 Coordinates: -12.324, 133.056
+2025-06-06 12:51:23,638 - INFO - 💾 Cache hit: f7fc4cc4c7e4403bc3005240d355e892
+2025-06-06 12:51:23,638 - INFO - 📦 Using cached data for Gunbalanya
+2025-06-06 12:51:23,640 - INFO - 💾 CSV saved: output/gunbalanya/gunbalanya_buildings_20250606_125123.csv
+2025-06-06 12:51:23,646 - INFO - 🗺️ KML saved: output/gunbalanya/gunbalanya_buildings_20250606_125123.kml
+2025-06-06 12:51:23,647 - INFO - 📄 Summary saved: output/gunbalanya/gunbalanya_summary_20250606_125123.txt
+2025-06-06 12:51:23,647 - INFO - ✅ Gunbalanya: 3 buildings found
+2025-06-06 12:51:23,647 - INFO - 🏠 Processing: Hermannsburg
+2025-06-06 12:51:23,647 - INFO - 📍 Coordinates: -23.9427, 132.7787
+2025-06-06 12:51:23,936 - INFO - ✅ OSMnx point query: 112 buildings
+2025-06-06 12:51:23,936 - INFO - 🔍 Looking up addresses for 112 buildings...
+2025-06-06 12:52:05,586 - INFO - 🏠 Successfully geocoded 112/112 addresses
+2025-06-06 12:52:05,587 - INFO - 💾 Cached buildings data: 52fb03e598fc3d5974166b489780e4e1
+2025-06-06 12:52:07,597 - INFO - 💾 CSV saved: output/hermannsburg/hermannsburg_buildings_20250606_125207.csv
+2025-06-06 12:52:07,645 - INFO - 🗺️ KML saved: output/hermannsburg/hermannsburg_buildings_20250606_125207.kml
+2025-06-06 12:52:07,646 - INFO - 📄 Summary saved: output/hermannsburg/hermannsburg_summary_20250606_125207.txt
+2025-06-06 12:52:07,646 - INFO - ✅ Hermannsburg: 112 buildings found
+2025-06-06 12:52:07,647 - INFO - 🏠 Processing: Irrerlirre
+2025-06-06 12:52:07,647 - INFO - 📍 Coordinates: -22.8462, 135.1345
+2025-06-06 12:52:09,275 - INFO - ✅ OSMnx point query: 20 buildings
+2025-06-06 12:52:09,275 - INFO - 🔍 Looking up addresses for 20 buildings...
+2025-06-06 12:52:36,938 - INFO - 🏠 Successfully geocoded 20/20 addresses
+2025-06-06 12:52:36,939 - INFO - 💾 Cached buildings data: 235d197aa430255f5c8fdce93837b2df
+2025-06-06 12:52:38,943 - INFO - 💾 CSV saved: output/irrerlirre/irrerlirre_buildings_20250606_125238.csv
+2025-06-06 12:52:38,952 - INFO - 🗺️ KML saved: output/irrerlirre/irrerlirre_buildings_20250606_125238.kml
+2025-06-06 12:52:38,953 - INFO - 📄 Summary saved: output/irrerlirre/irrerlirre_summary_20250606_125238.txt
+2025-06-06 12:52:38,954 - INFO - ✅ Irrerlirre: 20 buildings found
+2025-06-06 12:52:38,954 - INFO - 🏠 Processing: Kalkarindji 
+2025-06-06 12:52:38,954 - INFO - 📍 Coordinates: -17.44670592, 130.8314152
+2025-06-06 12:52:40,757 - INFO - ✅ OSMnx point query: 161 buildings
+2025-06-06 12:52:40,757 - INFO - 🔍 Looking up addresses for 161 buildings...
+2025-06-06 12:55:31,368 - INFO - ✅ Loaded 24 valid communities from TownData.csv
+2025-06-06 12:55:31,368 - INFO - 🏘️ Enhanced extractor initialized for 24 communities
+2025-06-06 12:55:31,368 - INFO - 📁 Output: /home/jack/BuildingDetector/output
+2025-06-06 12:55:31,368 - INFO - 💾 Cache: /home/jack/BuildingDetector/cache
+2025-06-06 12:55:31,368 - INFO - 🔍 Geocoding: Disabled
+2025-06-06 12:55:31,368 - INFO - 🚀 Starting batch processing of 24 communities
+2025-06-06 12:55:31,368 - INFO - 💾 Cache directory: /home/jack/BuildingDetector/cache
+2025-06-06 12:55:31,368 - INFO - 🔄 Force refresh: False
+2025-06-06 12:55:31,369 - INFO - 🏠 Processing: 16 Mile Camp
+2025-06-06 12:55:31,369 - INFO - 📍 Coordinates: -23.45764, 133.83248
+2025-06-06 12:55:31,369 - INFO - 💾 Cache hit: b3b93e4e45d0c6df9cd8b771adffedbe
+2025-06-06 12:55:31,370 - INFO - 📦 Using cached data for 16 Mile Camp
+2025-06-06 12:55:31,372 - INFO - 💾 CSV saved: output/16_mile_camp/16_mile_camp_buildings_20250606_125531.csv
+2025-06-06 12:55:31,378 - INFO - 🗺️ KML saved: output/16_mile_camp/16_mile_camp_buildings_20250606_125531.kml
+2025-06-06 12:55:31,379 - INFO - 📄 Summary saved: output/16_mile_camp/16_mile_camp_summary_20250606_125531.txt
+2025-06-06 12:55:31,379 - INFO - ✅ 16 Mile Camp: 2 buildings found
+2025-06-06 12:55:31,379 - INFO - 🏠 Processing: Alkupitja
+2025-06-06 12:55:31,379 - INFO - 📍 Coordinates: -23.06533, 133.69436
+2025-06-06 12:55:31,380 - INFO - 💾 Cache hit: 262fa748285666549c40c63280eb19d7
+2025-06-06 12:55:31,380 - INFO - 📦 Using cached data for Alkupitja
+2025-06-06 12:55:31,381 - INFO - 💾 CSV saved: output/alkupitja/alkupitja_buildings_20250606_125531.csv
+2025-06-06 12:55:31,388 - INFO - 🗺️ KML saved: output/alkupitja/alkupitja_buildings_20250606_125531.kml
+2025-06-06 12:55:31,388 - INFO - 📄 Summary saved: output/alkupitja/alkupitja_summary_20250606_125531.txt
+2025-06-06 12:55:31,389 - INFO - ✅ Alkupitja: 8 buildings found
+2025-06-06 12:55:31,389 - INFO - 🏠 Processing: Angurugu
+2025-06-06 12:55:31,389 - INFO - 📍 Coordinates: -13.9822, 136.4606
+2025-06-06 12:55:31,389 - INFO - 💾 Cache hit: 940a92aa3da64dd310c0eafbda64bdf5
+2025-06-06 12:55:31,390 - INFO - 📦 Using cached data for Angurugu
+2025-06-06 12:55:31,392 - INFO - 💾 CSV saved: output/angurugu/angurugu_buildings_20250606_125531.csv
+2025-06-06 12:55:31,420 - INFO - 🗺️ KML saved: output/angurugu/angurugu_buildings_20250606_125531.kml
+2025-06-06 12:55:31,421 - INFO - 📄 Summary saved: output/angurugu/angurugu_summary_20250606_125531.txt
+2025-06-06 12:55:31,421 - INFO - ✅ Angurugu: 113 buildings found
+2025-06-06 12:55:31,422 - INFO - 🏠 Processing: Artekerre
+2025-06-06 12:55:31,422 - INFO - 📍 Coordinates: -23.257387, 133.766604
+2025-06-06 12:55:31,422 - INFO - 💾 Cache hit: 45d8e39fafce77e03bb827a98849b7e9
+2025-06-06 12:55:31,422 - INFO - 📦 Using cached data for Artekerre
+2025-06-06 12:55:31,424 - INFO - 💾 CSV saved: output/artekerre/artekerre_buildings_20250606_125531.csv
+2025-06-06 12:55:31,433 - INFO - 🗺️ KML saved: output/artekerre/artekerre_buildings_20250606_125531.kml
+2025-06-06 12:55:31,434 - INFO - 📄 Summary saved: output/artekerre/artekerre_summary_20250606_125531.txt
+2025-06-06 12:55:31,434 - INFO - ✅ Artekerre: 14 buildings found
+2025-06-06 12:55:31,434 - INFO - 🏠 Processing: Black Tank Bore
+2025-06-06 12:55:31,434 - INFO - 📍 Coordinates: -23.32352, 134.02049
+2025-06-06 12:55:31,434 - INFO - 💾 Cache hit: 081849c326f4b38f5ab5f8425f8dedc1
+2025-06-06 12:55:31,434 - INFO - 📦 Using cached data for Black Tank Bore
+2025-06-06 12:55:31,436 - INFO - 💾 CSV saved: output/black_tank_bore/black_tank_bore_buildings_20250606_125531.csv
+2025-06-06 12:55:31,442 - INFO - 🗺️ KML saved: output/black_tank_bore/black_tank_bore_buildings_20250606_125531.kml
+2025-06-06 12:55:31,443 - INFO - 📄 Summary saved: output/black_tank_bore/black_tank_bore_summary_20250606_125531.txt
+2025-06-06 12:55:31,443 - INFO - ✅ Black Tank Bore: 6 buildings found
+2025-06-06 12:55:31,443 - INFO - 🏠 Processing: Burt Creek
+2025-06-06 12:55:31,443 - INFO - 📍 Coordinates: -23.19652, 133.74759
+2025-06-06 12:55:31,444 - INFO - 💾 Cache hit: f5bf96a932c1053e3848af489c10b529
+2025-06-06 12:55:31,444 - INFO - 📦 Using cached data for Burt Creek
+2025-06-06 12:55:31,445 - INFO - 💾 CSV saved: output/burt_creek/burt_creek_buildings_20250606_125531.csv
+2025-06-06 12:55:31,452 - INFO - 🗺️ KML saved: output/burt_creek/burt_creek_buildings_20250606_125531.kml
+2025-06-06 12:55:31,453 - INFO - 📄 Summary saved: output/burt_creek/burt_creek_summary_20250606_125531.txt
+2025-06-06 12:55:31,453 - INFO - ✅ Burt Creek: 11 buildings found
+2025-06-06 12:55:31,453 - INFO - 🏠 Processing: Corkwood Bore
+2025-06-06 12:55:31,453 - INFO - 📍 Coordinates: -23.31225, 133.86792
+2025-06-06 12:55:31,454 - INFO - 💾 Cache hit: 2d9c4c457c3a27c02c3d2850551a0c71
+2025-06-06 12:55:31,454 - INFO - 📦 Using cached data for Corkwood Bore
+2025-06-06 12:55:31,455 - INFO - 💾 CSV saved: output/corkwood_bore/corkwood_bore_buildings_20250606_125531.csv
+2025-06-06 12:55:31,461 - INFO - 🗺️ KML saved: output/corkwood_bore/corkwood_bore_buildings_20250606_125531.kml
+2025-06-06 12:55:31,462 - INFO - 📄 Summary saved: output/corkwood_bore/corkwood_bore_summary_20250606_125531.txt
+2025-06-06 12:55:31,462 - INFO - ✅ Corkwood Bore: 5 buildings found
+2025-06-06 12:55:31,462 - INFO - 🏠 Processing: Gunbalanya
+2025-06-06 12:55:31,462 - INFO - 📍 Coordinates: -12.324, 133.056
+2025-06-06 12:55:31,463 - INFO - 💾 Cache hit: f7fc4cc4c7e4403bc3005240d355e892
+2025-06-06 12:55:31,463 - INFO - 📦 Using cached data for Gunbalanya
+2025-06-06 12:55:31,464 - INFO - 💾 CSV saved: output/gunbalanya/gunbalanya_buildings_20250606_125531.csv
+2025-06-06 12:55:31,470 - INFO - 🗺️ KML saved: output/gunbalanya/gunbalanya_buildings_20250606_125531.kml
+2025-06-06 12:55:31,470 - INFO - 📄 Summary saved: output/gunbalanya/gunbalanya_summary_20250606_125531.txt
+2025-06-06 12:55:31,471 - INFO - ✅ Gunbalanya: 3 buildings found
+2025-06-06 12:55:31,471 - INFO - 🏠 Processing: Hermannsburg
+2025-06-06 12:55:31,471 - INFO - 📍 Coordinates: -23.9427, 132.7787
+2025-06-06 12:55:31,471 - INFO - 💾 Cache hit: 52fb03e598fc3d5974166b489780e4e1
+2025-06-06 12:55:31,471 - INFO - 📦 Using cached data for Hermannsburg
+2025-06-06 12:55:31,474 - INFO - 💾 CSV saved: output/hermannsburg/hermannsburg_buildings_20250606_125531.csv
+2025-06-06 12:55:31,500 - INFO - 🗺️ KML saved: output/hermannsburg/hermannsburg_buildings_20250606_125531.kml
+2025-06-06 12:55:31,501 - INFO - 📄 Summary saved: output/hermannsburg/hermannsburg_summary_20250606_125531.txt
+2025-06-06 12:55:31,501 - INFO - ✅ Hermannsburg: 112 buildings found
+2025-06-06 12:55:31,501 - INFO - 🏠 Processing: Irrerlirre
+2025-06-06 12:55:31,501 - INFO - 📍 Coordinates: -22.8462, 135.1345
+2025-06-06 12:55:31,501 - INFO - 💾 Cache hit: 235d197aa430255f5c8fdce93837b2df
+2025-06-06 12:55:31,502 - INFO - 📦 Using cached data for Irrerlirre
+2025-06-06 12:55:31,503 - INFO - 💾 CSV saved: output/irrerlirre/irrerlirre_buildings_20250606_125531.csv
+2025-06-06 12:55:31,512 - INFO - 🗺️ KML saved: output/irrerlirre/irrerlirre_buildings_20250606_125531.kml
+2025-06-06 12:55:31,513 - INFO - 📄 Summary saved: output/irrerlirre/irrerlirre_summary_20250606_125531.txt
+2025-06-06 12:55:31,513 - INFO - ✅ Irrerlirre: 20 buildings found
+2025-06-06 12:55:31,513 - INFO - 🏠 Processing: Kalkarindji 
+2025-06-06 12:55:31,513 - INFO - 📍 Coordinates: -17.44670592, 130.8314152
+2025-06-06 12:55:31,812 - INFO - ✅ OSMnx point query: 161 buildings
+2025-06-06 12:55:31,813 - INFO - 💾 Cached buildings data: b51986e76e68c008bf7614868f9d41ce
+2025-06-06 12:55:33,818 - INFO - 💾 CSV saved: output/kalkarindji/kalkarindji_buildings_20250606_125533.csv
+2025-06-06 12:55:33,854 - INFO - 🗺️ KML saved: output/kalkarindji/kalkarindji_buildings_20250606_125533.kml
+2025-06-06 12:55:33,855 - INFO - 📄 Summary saved: output/kalkarindji/kalkarindji_summary_20250606_125533.txt
+2025-06-06 12:55:33,855 - INFO - ✅ Kalkarindji : 161 buildings found
+2025-06-06 12:55:33,855 - INFO - 🏠 Processing: Kintore
+2025-06-06 12:55:33,856 - INFO - 📍 Coordinates: -23.27591, 129.38725
+2025-06-06 12:55:35,791 - INFO - ✅ OSMnx point query: 154 buildings
+2025-06-06 12:55:35,792 - INFO - 💾 Cached buildings data: bc388284631410120849f44d6d1b388c
+2025-06-06 12:55:37,797 - INFO - 💾 CSV saved: output/kintore/kintore_buildings_20250606_125537.csv
+2025-06-06 12:55:37,830 - INFO - 🗺️ KML saved: output/kintore/kintore_buildings_20250606_125537.kml
+2025-06-06 12:55:37,832 - INFO - 📄 Summary saved: output/kintore/kintore_summary_20250606_125537.txt
+2025-06-06 12:55:37,832 - INFO - ✅ Kintore: 154 buildings found
+2025-06-06 12:55:37,832 - INFO - 🏠 Processing: Mbunghara
+2025-06-06 12:55:37,832 - INFO - 📍 Coordinates: -23.29071, 132.35891
+2025-06-06 12:55:39,481 - INFO - ✅ OSMnx point query: 14 buildings
+2025-06-06 12:55:39,481 - INFO - 💾 Cached buildings data: c5d1be55ee51029e69959410b776e2d2
+2025-06-06 12:55:41,486 - INFO - 💾 CSV saved: output/mbunghara/mbunghara_buildings_20250606_125541.csv
+2025-06-06 12:55:41,500 - INFO - 🗺️ KML saved: output/mbunghara/mbunghara_buildings_20250606_125541.kml
+2025-06-06 12:55:41,501 - INFO - 📄 Summary saved: output/mbunghara/mbunghara_summary_20250606_125541.txt
+2025-06-06 12:55:41,502 - INFO - ✅ Mbunghara: 14 buildings found
+2025-06-06 12:55:41,502 - INFO - 🏠 Processing: Milingimbi
+2025-06-06 12:55:41,502 - INFO - 📍 Coordinates: -12.1036, 134.9201
+2025-06-06 12:55:43,411 - INFO - ✅ OSMnx point query: 205 buildings
+2025-06-06 12:55:43,411 - INFO - 💾 Cached buildings data: 8e166e2b2d0858a8c3315ce4e54acf62
+2025-06-06 12:55:45,417 - INFO - 💾 CSV saved: output/milingimbi/milingimbi_buildings_20250606_125545.csv
+2025-06-06 12:55:45,460 - INFO - 🗺️ KML saved: output/milingimbi/milingimbi_buildings_20250606_125545.kml
+2025-06-06 12:55:45,461 - INFO - 📄 Summary saved: output/milingimbi/milingimbi_summary_20250606_125545.txt
+2025-06-06 12:55:45,461 - INFO - ✅ Milingimbi: 205 buildings found
+2025-06-06 12:55:45,461 - INFO - 🏠 Processing: Ngukurr
+2025-06-06 12:55:45,461 - INFO - 📍 Coordinates: -14.7317, 134.7321
+2025-06-06 12:55:47,115 - INFO - ✅ OSMnx point query: 13 buildings
+2025-06-06 12:55:47,115 - INFO - 💾 Cached buildings data: ffd93f5d523c7a0c62dded7c0bb13e8f
+2025-06-06 12:55:49,119 - INFO - 💾 CSV saved: output/ngukurr/ngukurr_buildings_20250606_125549.csv
+2025-06-06 12:55:49,128 - INFO - 🗺️ KML saved: output/ngukurr/ngukurr_buildings_20250606_125549.kml
+2025-06-06 12:55:49,129 - INFO - 📄 Summary saved: output/ngukurr/ngukurr_summary_20250606_125549.txt
+2025-06-06 12:55:49,129 - INFO - ✅ Ngukurr: 13 buildings found
+2025-06-06 12:55:49,129 - INFO - 🏠 Processing: Orrtipa Thurra
+2025-06-06 12:55:49,129 - INFO - 📍 Coordinates: -22.784582, 136.16829
+2025-06-06 12:55:50,913 - INFO - ✅ OSMnx point query: 26 buildings
+2025-06-06 12:55:50,914 - INFO - 💾 Cached buildings data: b71f2425522785c940ee423e0c58c5fd
+2025-06-06 12:55:52,918 - INFO - 💾 CSV saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_125552.csv
+2025-06-06 12:55:52,932 - INFO - 🗺️ KML saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_125552.kml
+2025-06-06 12:55:52,933 - INFO - 📄 Summary saved: output/orrtipa_thurra/orrtipa_thurra_summary_20250606_125552.txt
+2025-06-06 12:55:52,933 - INFO - ✅ Orrtipa Thurra: 26 buildings found
+2025-06-06 12:55:52,933 - INFO - 🏠 Processing: Papunya
+2025-06-06 12:55:52,933 - INFO - 📍 Coordinates: -23.203056, 131.9111
+2025-06-06 12:55:54,667 - INFO - ✅ OSMnx point query: 84 buildings
+2025-06-06 12:55:54,667 - INFO - 💾 Cached buildings data: cb6db6e7b018d828158f9eb808d44750
+2025-06-06 12:55:56,672 - INFO - 💾 CSV saved: output/papunya/papunya_buildings_20250606_125556.csv
+2025-06-06 12:55:56,692 - INFO - 🗺️ KML saved: output/papunya/papunya_buildings_20250606_125556.kml
+2025-06-06 12:55:56,693 - INFO - 📄 Summary saved: output/papunya/papunya_summary_20250606_125556.txt
+2025-06-06 12:55:56,693 - INFO - ✅ Papunya: 84 buildings found
+2025-06-06 12:55:56,693 - INFO - 🏠 Processing: Santa Teresa
+2025-06-06 12:55:56,693 - INFO - 📍 Coordinates: -24.1307, 134.3733
+2025-06-06 12:55:58,444 - INFO - ✅ OSMnx point query: 97 buildings
+2025-06-06 12:55:58,445 - INFO - 💾 Cached buildings data: 494a5090bc96cb5ebcaa8ef74587361c
+2025-06-06 12:56:00,450 - INFO - 💾 CSV saved: output/santa_teresa/santa_teresa_buildings_20250606_125600.csv
+2025-06-06 12:56:00,481 - INFO - 🗺️ KML saved: output/santa_teresa/santa_teresa_buildings_20250606_125600.kml
+2025-06-06 12:56:00,482 - INFO - 📄 Summary saved: output/santa_teresa/santa_teresa_summary_20250606_125600.txt
+2025-06-06 12:56:00,482 - INFO - ✅ Santa Teresa: 97 buildings found
+2025-06-06 12:56:00,482 - INFO - 🏠 Processing: Snake Well
+2025-06-06 12:56:00,482 - INFO - 📍 Coordinates: -23.159459, 133.915292
+2025-06-06 12:56:02,141 - INFO - ✅ OSMnx point query: 11 buildings
+2025-06-06 12:56:02,142 - INFO - 💾 Cached buildings data: 0bf5784da0071c47a1227914cffbd731
+2025-06-06 12:56:04,145 - INFO - 💾 CSV saved: output/snake_well/snake_well_buildings_20250606_125604.csv
+2025-06-06 12:56:04,152 - INFO - 🗺️ KML saved: output/snake_well/snake_well_buildings_20250606_125604.kml
+2025-06-06 12:56:04,153 - INFO - 📄 Summary saved: output/snake_well/snake_well_summary_20250606_125604.txt
+2025-06-06 12:56:04,154 - INFO - ✅ Snake Well: 11 buildings found
+2025-06-06 12:56:04,154 - INFO - 🏠 Processing: Undoolya Bore
+2025-06-06 12:56:04,154 - INFO - 📍 Coordinates: -23.74762, 134.11762
+2025-06-06 12:56:05,841 - INFO - ✅ OSMnx point query: 16 buildings
+2025-06-06 12:56:05,841 - INFO - 💾 Cached buildings data: c7b6dd8f47ccbd95ea1f024bd8188f00
+2025-06-06 12:56:07,845 - INFO - 💾 CSV saved: output/undoolya_bore/undoolya_bore_buildings_20250606_125607.csv
+2025-06-06 12:56:07,854 - INFO - 🗺️ KML saved: output/undoolya_bore/undoolya_bore_buildings_20250606_125607.kml
+2025-06-06 12:56:07,855 - INFO - 📄 Summary saved: output/undoolya_bore/undoolya_bore_summary_20250606_125607.txt
+2025-06-06 12:56:07,855 - INFO - ✅ Undoolya Bore: 16 buildings found
+2025-06-06 12:56:07,856 - INFO - 🏠 Processing: Wadeye
+2025-06-06 12:56:07,856 - INFO - 📍 Coordinates: -14.2404, 129.5205
+2025-06-06 12:56:09,868 - INFO - ✅ OSMnx point query: 202 buildings
+2025-06-06 12:56:09,869 - INFO - 💾 Cached buildings data: d4f24eae3e1d2ef7321657f038acfaeb
+2025-06-06 12:56:11,875 - INFO - 💾 CSV saved: output/wadeye/wadeye_buildings_20250606_125611.csv
+2025-06-06 12:56:11,926 - INFO - 🗺️ KML saved: output/wadeye/wadeye_buildings_20250606_125611.kml
+2025-06-06 12:56:11,928 - INFO - 📄 Summary saved: output/wadeye/wadeye_summary_20250606_125611.txt
+2025-06-06 12:56:11,928 - INFO - ✅ Wadeye: 202 buildings found
+2025-06-06 12:56:11,928 - INFO - 🏠 Processing: Walkabout Bore
+2025-06-06 12:56:11,928 - INFO - 📍 Coordinates: -24.38261, 133.81687
+2025-06-06 12:56:13,631 - INFO - ✅ OSMnx point query: 18 buildings
+2025-06-06 12:56:13,631 - INFO - 💾 Cached buildings data: e04851e7d88240f0da7e9f680f3cbfb4
+2025-06-06 12:56:15,636 - INFO - 💾 CSV saved: output/walkabout_bore/walkabout_bore_buildings_20250606_125615.csv
+2025-06-06 12:56:15,644 - INFO - 🗺️ KML saved: output/walkabout_bore/walkabout_bore_buildings_20250606_125615.kml
+2025-06-06 12:56:15,645 - INFO - 📄 Summary saved: output/walkabout_bore/walkabout_bore_summary_20250606_125615.txt
+2025-06-06 12:56:15,645 - INFO - ✅ Walkabout Bore: 18 buildings found
+2025-06-06 12:56:15,645 - INFO - 🏠 Processing: Wurrumiyanga
+2025-06-06 12:56:15,645 - INFO - 📍 Coordinates: -11.758306, 130.63747
+2025-06-06 12:56:17,738 - INFO - ✅ OSMnx point query: 525 buildings
+2025-06-06 12:56:17,739 - INFO - 💾 Cached buildings data: 0b518c633247c22f5358e4b39ab4b6d1
+2025-06-06 12:56:19,748 - INFO - 💾 CSV saved: output/wurrumiyanga/wurrumiyanga_buildings_20250606_125619.csv
+2025-06-06 12:56:19,849 - INFO - 🗺️ KML saved: output/wurrumiyanga/wurrumiyanga_buildings_20250606_125619.kml
+2025-06-06 12:56:19,851 - INFO - 📄 Summary saved: output/wurrumiyanga/wurrumiyanga_summary_20250606_125619.txt
+2025-06-06 12:56:19,851 - INFO - ✅ Wurrumiyanga: 525 buildings found
+2025-06-06 12:56:19,851 - INFO - 🏠 Processing: Yuendumu
+2025-06-06 12:56:19,851 - INFO - 📍 Coordinates: -22.25389, 131.79529
+2025-06-06 12:56:21,852 - INFO - ✅ OSMnx point query: 299 buildings
+2025-06-06 12:56:21,853 - INFO - 💾 Cached buildings data: eda4078428d577b3832ec98d3dffb0b8
+2025-06-06 12:56:23,860 - INFO - 💾 CSV saved: output/yuendumu/yuendumu_buildings_20250606_125623.csv
+2025-06-06 12:56:23,920 - INFO - 🗺️ KML saved: output/yuendumu/yuendumu_buildings_20250606_125623.kml
+2025-06-06 12:56:23,921 - INFO - 📄 Summary saved: output/yuendumu/yuendumu_summary_20250606_125623.txt
+2025-06-06 12:56:23,921 - INFO - ✅ Yuendumu: 299 buildings found
+2025-06-06 12:56:23,921 - INFO - 📊 Final summary saved: output/batch_extraction_summary_20250606_125623.txt
+2025-06-06 12:56:47,502 - INFO - ✅ Loaded 24 valid communities from TownData.csv
+2025-06-06 12:56:47,503 - INFO - 🏘️ Enhanced extractor initialized for 24 communities
+2025-06-06 12:56:47,503 - INFO - 📁 Output: /home/jack/BuildingDetector/output
+2025-06-06 12:56:47,503 - INFO - 💾 Cache: /home/jack/BuildingDetector/cache
+2025-06-06 12:56:47,503 - INFO - 🔍 Geocoding: Disabled
+2025-06-06 12:56:47,503 - INFO - 🚀 Starting batch processing of 24 communities
+2025-06-06 12:56:47,503 - INFO - 💾 Cache directory: /home/jack/BuildingDetector/cache
+2025-06-06 12:56:47,503 - INFO - 🔄 Force refresh: False
+2025-06-06 12:56:47,503 - INFO - 🏠 Processing: 16 Mile Camp
+2025-06-06 12:56:47,504 - INFO - 📍 Coordinates: -23.45764, 133.83248
+2025-06-06 12:56:47,504 - INFO - 💾 Cache hit: b3b93e4e45d0c6df9cd8b771adffedbe
+2025-06-06 12:56:47,504 - INFO - 📦 Using cached data for 16 Mile Camp
+2025-06-06 12:56:47,506 - INFO - 💾 CSV saved: output/16_mile_camp/16_mile_camp_buildings_20250606_125647.csv
+2025-06-06 12:56:47,513 - INFO - 🗺️ KML saved: output/16_mile_camp/16_mile_camp_buildings_20250606_125647.kml
+2025-06-06 12:56:47,515 - INFO - 📄 Summary saved: output/16_mile_camp/16_mile_camp_summary_20250606_125647.txt
+2025-06-06 12:56:47,515 - INFO - ✅ 16 Mile Camp: 2 buildings found
+2025-06-06 12:56:47,515 - INFO - 🏠 Processing: Alkupitja
+2025-06-06 12:56:47,515 - INFO - 📍 Coordinates: -23.06533, 133.69436
+2025-06-06 12:56:47,516 - INFO - 💾 Cache hit: 262fa748285666549c40c63280eb19d7
+2025-06-06 12:56:47,516 - INFO - 📦 Using cached data for Alkupitja
+2025-06-06 12:56:47,517 - INFO - 💾 CSV saved: output/alkupitja/alkupitja_buildings_20250606_125647.csv
+2025-06-06 12:56:47,525 - INFO - 🗺️ KML saved: output/alkupitja/alkupitja_buildings_20250606_125647.kml
+2025-06-06 12:56:47,526 - INFO - 📄 Summary saved: output/alkupitja/alkupitja_summary_20250606_125647.txt
+2025-06-06 12:56:47,526 - INFO - ✅ Alkupitja: 8 buildings found
+2025-06-06 12:56:47,526 - INFO - 🏠 Processing: Angurugu
+2025-06-06 12:56:47,526 - INFO - 📍 Coordinates: -13.9822, 136.4606
+2025-06-06 12:56:47,527 - INFO - 💾 Cache hit: 940a92aa3da64dd310c0eafbda64bdf5
+2025-06-06 12:56:47,527 - INFO - 📦 Using cached data for Angurugu
+2025-06-06 12:56:47,529 - INFO - 💾 CSV saved: output/angurugu/angurugu_buildings_20250606_125647.csv
+2025-06-06 12:56:47,557 - INFO - 🗺️ KML saved: output/angurugu/angurugu_buildings_20250606_125647.kml
+2025-06-06 12:56:47,559 - INFO - 📄 Summary saved: output/angurugu/angurugu_summary_20250606_125647.txt
+2025-06-06 12:56:47,559 - INFO - ✅ Angurugu: 113 buildings found
+2025-06-06 12:56:47,559 - INFO - 🏠 Processing: Artekerre
+2025-06-06 12:56:47,559 - INFO - 📍 Coordinates: -23.257387, 133.766604
+2025-06-06 12:56:47,560 - INFO - 💾 Cache hit: 45d8e39fafce77e03bb827a98849b7e9
+2025-06-06 12:56:47,560 - INFO - 📦 Using cached data for Artekerre
+2025-06-06 12:56:47,561 - INFO - 💾 CSV saved: output/artekerre/artekerre_buildings_20250606_125647.csv
+2025-06-06 12:56:47,570 - INFO - 🗺️ KML saved: output/artekerre/artekerre_buildings_20250606_125647.kml
+2025-06-06 12:56:47,571 - INFO - 📄 Summary saved: output/artekerre/artekerre_summary_20250606_125647.txt
+2025-06-06 12:56:47,571 - INFO - ✅ Artekerre: 14 buildings found
+2025-06-06 12:56:47,571 - INFO - 🏠 Processing: Black Tank Bore
+2025-06-06 12:56:47,571 - INFO - 📍 Coordinates: -23.32352, 134.02049
+2025-06-06 12:56:47,572 - INFO - 💾 Cache hit: 081849c326f4b38f5ab5f8425f8dedc1
+2025-06-06 12:56:47,572 - INFO - 📦 Using cached data for Black Tank Bore
+2025-06-06 12:56:47,573 - INFO - 💾 CSV saved: output/black_tank_bore/black_tank_bore_buildings_20250606_125647.csv
+2025-06-06 12:56:47,580 - INFO - 🗺️ KML saved: output/black_tank_bore/black_tank_bore_buildings_20250606_125647.kml
+2025-06-06 12:56:47,581 - INFO - 📄 Summary saved: output/black_tank_bore/black_tank_bore_summary_20250606_125647.txt
+2025-06-06 12:56:47,581 - INFO - ✅ Black Tank Bore: 6 buildings found
+2025-06-06 12:56:47,581 - INFO - 🏠 Processing: Burt Creek
+2025-06-06 12:56:47,581 - INFO - 📍 Coordinates: -23.19652, 133.74759
+2025-06-06 12:56:47,581 - INFO - 💾 Cache hit: f5bf96a932c1053e3848af489c10b529
+2025-06-06 12:56:47,582 - INFO - 📦 Using cached data for Burt Creek
+2025-06-06 12:56:47,583 - INFO - 💾 CSV saved: output/burt_creek/burt_creek_buildings_20250606_125647.csv
+2025-06-06 12:56:47,590 - INFO - 🗺️ KML saved: output/burt_creek/burt_creek_buildings_20250606_125647.kml
+2025-06-06 12:56:47,591 - INFO - 📄 Summary saved: output/burt_creek/burt_creek_summary_20250606_125647.txt
+2025-06-06 12:56:47,591 - INFO - ✅ Burt Creek: 11 buildings found
+2025-06-06 12:56:47,592 - INFO - 🏠 Processing: Corkwood Bore
+2025-06-06 12:56:47,592 - INFO - 📍 Coordinates: -23.31225, 133.86792
+2025-06-06 12:56:47,592 - INFO - 💾 Cache hit: 2d9c4c457c3a27c02c3d2850551a0c71
+2025-06-06 12:56:47,592 - INFO - 📦 Using cached data for Corkwood Bore
+2025-06-06 12:56:47,594 - INFO - 💾 CSV saved: output/corkwood_bore/corkwood_bore_buildings_20250606_125647.csv
+2025-06-06 12:56:47,600 - INFO - 🗺️ KML saved: output/corkwood_bore/corkwood_bore_buildings_20250606_125647.kml
+2025-06-06 12:56:47,601 - INFO - 📄 Summary saved: output/corkwood_bore/corkwood_bore_summary_20250606_125647.txt
+2025-06-06 12:56:47,601 - INFO - ✅ Corkwood Bore: 5 buildings found
+2025-06-06 12:56:47,602 - INFO - 🏠 Processing: Gunbalanya
+2025-06-06 12:56:47,602 - INFO - 📍 Coordinates: -12.324, 133.056
+2025-06-06 12:56:47,602 - INFO - 💾 Cache hit: f7fc4cc4c7e4403bc3005240d355e892
+2025-06-06 12:56:47,603 - INFO - 📦 Using cached data for Gunbalanya
+2025-06-06 12:56:47,604 - INFO - 💾 CSV saved: output/gunbalanya/gunbalanya_buildings_20250606_125647.csv
+2025-06-06 12:56:47,610 - INFO - 🗺️ KML saved: output/gunbalanya/gunbalanya_buildings_20250606_125647.kml
+2025-06-06 12:56:47,611 - INFO - 📄 Summary saved: output/gunbalanya/gunbalanya_summary_20250606_125647.txt
+2025-06-06 12:56:47,611 - INFO - ✅ Gunbalanya: 3 buildings found
+2025-06-06 12:56:47,611 - INFO - 🏠 Processing: Hermannsburg
+2025-06-06 12:56:47,611 - INFO - 📍 Coordinates: -23.9427, 132.7787
+2025-06-06 12:56:47,612 - INFO - 💾 Cache hit: 52fb03e598fc3d5974166b489780e4e1
+2025-06-06 12:56:47,612 - INFO - 📦 Using cached data for Hermannsburg
+2025-06-06 12:56:47,615 - INFO - 💾 CSV saved: output/hermannsburg/hermannsburg_buildings_20250606_125647.csv
+2025-06-06 12:56:47,641 - INFO - 🗺️ KML saved: output/hermannsburg/hermannsburg_buildings_20250606_125647.kml
+2025-06-06 12:56:47,642 - INFO - 📄 Summary saved: output/hermannsburg/hermannsburg_summary_20250606_125647.txt
+2025-06-06 12:56:47,642 - INFO - ✅ Hermannsburg: 112 buildings found
+2025-06-06 12:56:47,642 - INFO - 🏠 Processing: Irrerlirre
+2025-06-06 12:56:47,642 - INFO - 📍 Coordinates: -22.8462, 135.1345
+2025-06-06 12:56:47,643 - INFO - 💾 Cache hit: 235d197aa430255f5c8fdce93837b2df
+2025-06-06 12:56:47,643 - INFO - 📦 Using cached data for Irrerlirre
+2025-06-06 12:56:47,645 - INFO - 💾 CSV saved: output/irrerlirre/irrerlirre_buildings_20250606_125647.csv
+2025-06-06 12:56:47,654 - INFO - 🗺️ KML saved: output/irrerlirre/irrerlirre_buildings_20250606_125647.kml
+2025-06-06 12:56:47,655 - INFO - 📄 Summary saved: output/irrerlirre/irrerlirre_summary_20250606_125647.txt
+2025-06-06 12:56:47,655 - INFO - ✅ Irrerlirre: 20 buildings found
+2025-06-06 12:56:47,655 - INFO - 🏠 Processing: Kalkarindji 
+2025-06-06 12:56:47,655 - INFO - 📍 Coordinates: -17.44670592, 130.8314152
+2025-06-06 12:56:47,656 - INFO - 💾 Cache hit: b51986e76e68c008bf7614868f9d41ce
+2025-06-06 12:56:47,656 - INFO - 📦 Using cached data for Kalkarindji 
+2025-06-06 12:56:47,658 - INFO - 💾 CSV saved: output/kalkarindji/kalkarindji_buildings_20250606_125647.csv
+2025-06-06 12:56:47,694 - INFO - 🗺️ KML saved: output/kalkarindji/kalkarindji_buildings_20250606_125647.kml
+2025-06-06 12:56:47,695 - INFO - 📄 Summary saved: output/kalkarindji/kalkarindji_summary_20250606_125647.txt
+2025-06-06 12:56:47,695 - INFO - ✅ Kalkarindji : 161 buildings found
+2025-06-06 12:56:47,695 - INFO - 🏠 Processing: Kintore
+2025-06-06 12:56:47,696 - INFO - 📍 Coordinates: -23.27591, 129.38725
+2025-06-06 12:56:47,696 - INFO - 💾 Cache hit: bc388284631410120849f44d6d1b388c
+2025-06-06 12:56:47,696 - INFO - 📦 Using cached data for Kintore
+2025-06-06 12:56:47,699 - INFO - 💾 CSV saved: output/kintore/kintore_buildings_20250606_125647.csv
+2025-06-06 12:56:47,732 - INFO - 🗺️ KML saved: output/kintore/kintore_buildings_20250606_125647.kml
+2025-06-06 12:56:47,733 - INFO - 📄 Summary saved: output/kintore/kintore_summary_20250606_125647.txt
+2025-06-06 12:56:47,734 - INFO - ✅ Kintore: 154 buildings found
+2025-06-06 12:56:47,734 - INFO - 🏠 Processing: Mbunghara
+2025-06-06 12:56:47,734 - INFO - 📍 Coordinates: -23.29071, 132.35891
+2025-06-06 12:56:47,734 - INFO - 💾 Cache hit: c5d1be55ee51029e69959410b776e2d2
+2025-06-06 12:56:47,735 - INFO - 📦 Using cached data for Mbunghara
+2025-06-06 12:56:47,736 - INFO - 💾 CSV saved: output/mbunghara/mbunghara_buildings_20250606_125647.csv
+2025-06-06 12:56:47,744 - INFO - 🗺️ KML saved: output/mbunghara/mbunghara_buildings_20250606_125647.kml
+2025-06-06 12:56:47,744 - INFO - 📄 Summary saved: output/mbunghara/mbunghara_summary_20250606_125647.txt
+2025-06-06 12:56:47,745 - INFO - ✅ Mbunghara: 14 buildings found
+2025-06-06 12:56:47,745 - INFO - 🏠 Processing: Milingimbi
+2025-06-06 12:56:47,745 - INFO - 📍 Coordinates: -12.1036, 134.9201
+2025-06-06 12:56:47,745 - INFO - 💾 Cache hit: 8e166e2b2d0858a8c3315ce4e54acf62
+2025-06-06 12:56:47,745 - INFO - 📦 Using cached data for Milingimbi
+2025-06-06 12:56:47,749 - INFO - 💾 CSV saved: output/milingimbi/milingimbi_buildings_20250606_125647.csv
+2025-06-06 12:56:47,792 - INFO - 🗺️ KML saved: output/milingimbi/milingimbi_buildings_20250606_125647.kml
+2025-06-06 12:56:47,793 - INFO - 📄 Summary saved: output/milingimbi/milingimbi_summary_20250606_125647.txt
+2025-06-06 12:56:47,793 - INFO - ✅ Milingimbi: 205 buildings found
+2025-06-06 12:56:47,794 - INFO - 🏠 Processing: Ngukurr
+2025-06-06 12:56:47,794 - INFO - 📍 Coordinates: -14.7317, 134.7321
+2025-06-06 12:56:47,794 - INFO - 💾 Cache hit: ffd93f5d523c7a0c62dded7c0bb13e8f
+2025-06-06 12:56:47,794 - INFO - 📦 Using cached data for Ngukurr
+2025-06-06 12:56:47,796 - INFO - 💾 CSV saved: output/ngukurr/ngukurr_buildings_20250606_125647.csv
+2025-06-06 12:56:47,803 - INFO - 🗺️ KML saved: output/ngukurr/ngukurr_buildings_20250606_125647.kml
+2025-06-06 12:56:47,804 - INFO - 📄 Summary saved: output/ngukurr/ngukurr_summary_20250606_125647.txt
+2025-06-06 12:56:47,804 - INFO - ✅ Ngukurr: 13 buildings found
+2025-06-06 12:56:47,804 - INFO - 🏠 Processing: Orrtipa Thurra
+2025-06-06 12:56:47,804 - INFO - 📍 Coordinates: -22.784582, 136.16829
+2025-06-06 12:56:47,805 - INFO - 💾 Cache hit: b71f2425522785c940ee423e0c58c5fd
+2025-06-06 12:56:47,805 - INFO - 📦 Using cached data for Orrtipa Thurra
+2025-06-06 12:56:47,806 - INFO - 💾 CSV saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_125647.csv
+2025-06-06 12:56:47,816 - INFO - 🗺️ KML saved: output/orrtipa_thurra/orrtipa_thurra_buildings_20250606_125647.kml
+2025-06-06 12:56:47,817 - INFO - 📄 Summary saved: output/orrtipa_thurra/orrtipa_thurra_summary_20250606_125647.txt
+2025-06-06 12:56:47,817 - INFO - ✅ Orrtipa Thurra: 26 buildings found
+2025-06-06 12:56:47,817 - INFO - 🏠 Processing: Papunya
+2025-06-06 12:56:47,817 - INFO - 📍 Coordinates: -23.203056, 131.9111
+2025-06-06 12:56:47,817 - INFO - 💾 Cache hit: cb6db6e7b018d828158f9eb808d44750
+2025-06-06 12:56:47,818 - INFO - 📦 Using cached data for Papunya
+2025-06-06 12:56:47,820 - INFO - 💾 CSV saved: output/papunya/papunya_buildings_20250606_125647.csv
+2025-06-06 12:56:47,840 - INFO - 🗺️ KML saved: output/papunya/papunya_buildings_20250606_125647.kml
+2025-06-06 12:56:47,841 - INFO - 📄 Summary saved: output/papunya/papunya_summary_20250606_125647.txt
+2025-06-06 12:56:47,841 - INFO - ✅ Papunya: 84 buildings found
+2025-06-06 12:56:47,841 - INFO - 🏠 Processing: Santa Teresa
+2025-06-06 12:56:47,841 - INFO - 📍 Coordinates: -24.1307, 134.3733
+2025-06-06 12:56:47,842 - INFO - 💾 Cache hit: 494a5090bc96cb5ebcaa8ef74587361c
+2025-06-06 12:56:47,842 - INFO - 📦 Using cached data for Santa Teresa
+2025-06-06 12:56:47,844 - INFO - 💾 CSV saved: output/santa_teresa/santa_teresa_buildings_20250606_125647.csv
+2025-06-06 12:56:47,868 - INFO - 🗺️ KML saved: output/santa_teresa/santa_teresa_buildings_20250606_125647.kml
+2025-06-06 12:56:47,869 - INFO - 📄 Summary saved: output/santa_teresa/santa_teresa_summary_20250606_125647.txt
+2025-06-06 12:56:47,869 - INFO - ✅ Santa Teresa: 97 buildings found
+2025-06-06 12:56:47,870 - INFO - 🏠 Processing: Snake Well
+2025-06-06 12:56:47,870 - INFO - 📍 Coordinates: -23.159459, 133.915292
+2025-06-06 12:56:47,870 - INFO - 💾 Cache hit: 0bf5784da0071c47a1227914cffbd731
+2025-06-06 12:56:47,870 - INFO - 📦 Using cached data for Snake Well
+2025-06-06 12:56:47,872 - INFO - 💾 CSV saved: output/snake_well/snake_well_buildings_20250606_125647.csv
+2025-06-06 12:56:47,932 - INFO - 🗺️ KML saved: output/snake_well/snake_well_buildings_20250606_125647.kml
+2025-06-06 12:56:47,933 - INFO - 📄 Summary saved: output/snake_well/snake_well_summary_20250606_125647.txt
+2025-06-06 12:56:47,933 - INFO - ✅ Snake Well: 11 buildings found
+2025-06-06 12:56:47,934 - INFO - 🏠 Processing: Undoolya Bore
+2025-06-06 12:56:47,934 - INFO - 📍 Coordinates: -23.74762, 134.11762
+2025-06-06 12:56:47,934 - INFO - 💾 Cache hit: c7b6dd8f47ccbd95ea1f024bd8188f00
+2025-06-06 12:56:47,934 - INFO - 📦 Using cached data for Undoolya Bore
+2025-06-06 12:56:47,936 - INFO - 💾 CSV saved: output/undoolya_bore/undoolya_bore_buildings_20250606_125647.csv
+2025-06-06 12:56:47,943 - INFO - 🗺️ KML saved: output/undoolya_bore/undoolya_bore_buildings_20250606_125647.kml
+2025-06-06 12:56:47,944 - INFO - 📄 Summary saved: output/undoolya_bore/undoolya_bore_summary_20250606_125647.txt
+2025-06-06 12:56:47,944 - INFO - ✅ Undoolya Bore: 16 buildings found
+2025-06-06 12:56:47,944 - INFO - 🏠 Processing: Wadeye
+2025-06-06 12:56:47,945 - INFO - 📍 Coordinates: -14.2404, 129.5205
+2025-06-06 12:56:47,945 - INFO - 💾 Cache hit: d4f24eae3e1d2ef7321657f038acfaeb
+2025-06-06 12:56:47,945 - INFO - 📦 Using cached data for Wadeye
+2025-06-06 12:56:47,948 - INFO - 💾 CSV saved: output/wadeye/wadeye_buildings_20250606_125647.csv
+2025-06-06 12:56:47,989 - INFO - 🗺️ KML saved: output/wadeye/wadeye_buildings_20250606_125647.kml
+2025-06-06 12:56:47,990 - INFO - 📄 Summary saved: output/wadeye/wadeye_summary_20250606_125647.txt
+2025-06-06 12:56:47,991 - INFO - ✅ Wadeye: 202 buildings found
+2025-06-06 12:56:47,991 - INFO - 🏠 Processing: Walkabout Bore
+2025-06-06 12:56:47,991 - INFO - 📍 Coordinates: -24.38261, 133.81687
+2025-06-06 12:56:47,991 - INFO - 💾 Cache hit: e04851e7d88240f0da7e9f680f3cbfb4
+2025-06-06 12:56:47,991 - INFO - 📦 Using cached data for Walkabout Bore
+2025-06-06 12:56:47,993 - INFO - 💾 CSV saved: output/walkabout_bore/walkabout_bore_buildings_20250606_125647.csv
+2025-06-06 12:56:48,002 - INFO - 🗺️ KML saved: output/walkabout_bore/walkabout_bore_buildings_20250606_125647.kml
+2025-06-06 12:56:48,003 - INFO - 📄 Summary saved: output/walkabout_bore/walkabout_bore_summary_20250606_125648.txt
+2025-06-06 12:56:48,003 - INFO - ✅ Walkabout Bore: 18 buildings found
+2025-06-06 12:56:48,004 - INFO - 🏠 Processing: Wurrumiyanga
+2025-06-06 12:56:48,004 - INFO - 📍 Coordinates: -11.758306, 130.63747
+2025-06-06 12:56:48,004 - INFO - 💾 Cache hit: 0b518c633247c22f5358e4b39ab4b6d1
+2025-06-06 12:56:48,004 - INFO - 📦 Using cached data for Wurrumiyanga
+2025-06-06 12:56:48,011 - INFO - 💾 CSV saved: output/wurrumiyanga/wurrumiyanga_buildings_20250606_125648.csv
+2025-06-06 12:56:48,114 - INFO - 🗺️ KML saved: output/wurrumiyanga/wurrumiyanga_buildings_20250606_125648.kml
+2025-06-06 12:56:48,116 - INFO - 📄 Summary saved: output/wurrumiyanga/wurrumiyanga_summary_20250606_125648.txt
+2025-06-06 12:56:48,116 - INFO - ✅ Wurrumiyanga: 525 buildings found
+2025-06-06 12:56:48,116 - INFO - 🏠 Processing: Yuendumu
+2025-06-06 12:56:48,116 - INFO - 📍 Coordinates: -22.25389, 131.79529
+2025-06-06 12:56:48,117 - INFO - 💾 Cache hit: eda4078428d577b3832ec98d3dffb0b8
+2025-06-06 12:56:48,117 - INFO - 📦 Using cached data for Yuendumu
+2025-06-06 12:56:48,121 - INFO - 💾 CSV saved: output/yuendumu/yuendumu_buildings_20250606_125648.csv
+2025-06-06 12:56:48,182 - INFO - 🗺️ KML saved: output/yuendumu/yuendumu_buildings_20250606_125648.kml
+2025-06-06 12:56:48,183 - INFO - 📄 Summary saved: output/yuendumu/yuendumu_summary_20250606_125648.txt
+2025-06-06 12:56:48,183 - INFO - ✅ Yuendumu: 299 buildings found
+2025-06-06 12:56:48,183 - INFO - 📊 Final summary saved: output/batch_extraction_summary_20250606_125648.txt
