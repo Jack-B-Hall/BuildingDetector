@@ -1,3 +1,7 @@
-cache/*
+**/cache/**
 output/*
 **/__pycache__/**
+exported_files.txt
+*.log
+python_file.py
+old/*
