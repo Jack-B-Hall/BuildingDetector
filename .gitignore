@@ -5,3 +5,4 @@ exported_files.txt
 *.log
 python_file.py
 old/*
+temp_buildings/*
