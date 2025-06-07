@@ -351,12 +351,6 @@ Click "🧹 Clear Cache" button
 ```bash
 # Install development dependencies
 pip install -r requirements.txt
-
-# Run tests (if implemented)
-python -m pytest tests/
-
-# Format code
-black *.py app/*.py
 ```
 
 ## 📄 License
